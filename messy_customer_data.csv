@@ -1,0 +1,1051 @@
+Customer_ID,Join_Date,Subscription_Type,Monthly_Revenue,Customer_Age,Country,Last_Login_Days_Ago,Support_Tickets,Discount_Applied,Email_Address,Phone_Number
+CUST-3457,2023-12-01,  basic  ,124.83,75.0,,31.0,18,FALSE,user_0@example.com,+1-803-1300
+CUST-8231,2023-12-01,,392.49,39.0,ARM,131.0,20,No,,+1-909-1284
+CUST-3280,2023-12-01,  enterprise  ,434.66,50.0,,283.0,5,Yes,user_2@example.com,+1-296-5676
+CUST-3913,2023-12-01,  Ent-1  ,98.62,56.0,UK,114.0,0,Yes,user_3@example.com,+1-396-8195
+CUST-1779,2023-12-01,  basic  ,336.65,34.0,USA,227.0,1,No,user_4@example.com,+1-165-1894
+CUST-9092,2023-12-01,  PRO  ,405.18,50.0,ARM,182.0,1,FALSE,user_5@example.com,+1-864-5195
+CUST-4227,2023-12-01,  Basic  ,242.76,22.0,,35.0,12,1,user_6@example.com,+1-328-1386
+CUST-9054,2023-12-01,  enterprise  ,282.0,42.0,Armenia,293.0,5,1,user_7@example.com,+1-265-4716
+CUST-6786,2023-12-01,,22.03,46.0,US,185.0,5,1,,+1-387-7428
+CUST-8686,2023-12-01,  Ent-1  ,304.41,59.0,U.K.,38.0,1,FALSE,user_9@example.com,+1-386-3769
+CUST-2352,2023-12-01,,99999.99,33.0,U.K.,17.0,3,0,user_10@example.com,+1-635-6248
+CUST-8235,2022-06-06,  Ent-1  ,274.32,21.0,United States,47.0,16,FALSE,user_11@example.com,+1-593-2593
+CUST-4220,2022-11-23,,498.23,68.0,U.K.,228.0,4,No,user_12@example.com,+1-538-562
+CUST-5274,2022-04-24,  enterprise  ,80.35,53.0,USA,56.0,15,1,user_13@example.com,+1-157-7840
+CUST-2884,2022-10-30,,199.79,28.0,UK,,1,Yes,user_14@example.com,+1-695-8822
+CUST-5076,2022-10-31,  Ent-1  ,103.91,67.0,United States,,3,0,user_15@example.com,+1-943-6086
+CUST-5132,2023-04-26,  Ent-1  ,354.6,45.0,U.K.,108.0,3,1,user_16@example.com,+1-775-1475
+CUST-8543,2023-05-09,  enterprise  ,261.14,75.0,U.K.,67.0,6,No,user_17@example.com,+1-110-5915
+CUST-7578,2022-08-04,  PRO  ,400.11,72.0,,303.0,13,No,user_18@example.com,+1-184-8701
+CUST-9334,2022-09-11,  Basic  ,61.82,39.0,U.K.,39.0,19,0,user_19@example.com,+1-931-3148
+CUST-8261,2022-01-12,  Basic  ,123.09,-5.0,,177.0,11,1,user_20@example.com,+1-392-9193
+CUST-9067,2022-04-09,  Ent-1  ,299.3,72.0,ARM,7.0,6,1,user_21@example.com,+1-890-988
+CUST-7009,2023-01-29,  Ent-1  ,430.24,19.0,Armenia,272.0,6,1,user_22@example.com,+1-662-4583
+CUST-2040,2023-01-20,,305.6,59.0,Armenia,148.0,3,Yes,user_23@example.com,+1-383-9263
+CUST-8192,2022-04-15,,338.14,35.0,US,4.0,20,FALSE,user_24@example.com,+1-603-4671
+CUST-9663,2022-03-09,  basic  ,331.31,36.0,Armenia,219.0,3,1,user_25@example.com,+1-758-8264
+CUST-5522,2022-03-21,  basic  ,181.17,50.0,,86.0,14,1,user_26@example.com,+1-190-4172
+CUST-4283,2022-11-09,  basic  ,406.95,39.0,ARM,43.0,8,0,user_27@example.com,+1-114-2029
+CUST-5308,2022-12-12,  Basic  ,205.36,55.0,Armenia,73.0,12,1,user_28@example.com,+1-723-8954
+CUST-8208,2022-01-16,,100.97,,U.K.,217.0,12,0,user_29@example.com,+1-431-4904
+CUST-3959,2022-08-10,  Basic  ,,250.0,United States,57.0,17,FALSE,user_30@example.com,+1-590-6896
+CUST-9742,2022-07-16,,,33.0,United States,54.0,3,TRUE,user_31@example.com,+1-509-9457
+CUST-5038,2022-01-18,  Basic  ,260.69,37.0,Armenia,329.0,16,No,user_32@example.com,+1-655-9424
+CUST-4646,2022-03-24,  basic  ,355.96,29.0,United States,,14,No,,+1-900-6181
+CUST-1965,2022-05-14,  basic  ,296.65,27.0,,206.0,5,TRUE,user_34@example.com,+1-116-8803
+CUST-9295,2022-08-09,  Basic  ,259.81,,US,334.0,8,No,user_35@example.com,+1-732-4866
+CUST-6531,2022-12-19,  Basic  ,463.01,25.0,UK,,1,FALSE,,+1-450-6214
+CUST-3835,2022-08-25,  Basic  ,288.28,52.0,US,227.0,19,FALSE,user_37@example.com,+1-632-5290
+CUST-8051,2022-06-28,  PRO  ,170.97,60.0,USA,331.0,17,1,user_38@example.com,+1-205-3659
+CUST-1429,2023-02-19,  Ent-1  ,,61.0,UK,135.0,0,TRUE,,+1-463-7603
+CUST-7244,2022-09-16,  Ent-1  ,95.16,24.0,UK,95.0,15,Yes,user_40@example.com,+1-531-749
+CUST-8599,2022-04-14,  PRO  ,250.15,18.0,U.K.,167.0,20,1,user_41@example.com,+1-110-3035
+CUST-1437,2023-04-15,  Ent-1  ,418.44,52.0,ARM,126.0,11,No,user_42@example.com,+1-137-1218
+CUST-7888,2023-03-17,  enterprise  ,396.7,69.0,USA,24.0,7,Yes,user_43@example.com,+1-734-3082
+CUST-6675,2023-02-22,,163.23,46.0,,,2,No,user_44@example.com,+1-820-9269
+CUST-6620,2022-06-08,  Ent-1  ,65.14,23.0,US,,1,1,user_45@example.com,+1-578-3029
+CUST-1612,2023-05-11,  Ent-1  ,373.76,66.0,,261.0,6,Yes,user_46@example.com,+1-366-4666
+CUST-6586,2022-10-09,  Ent-1  ,145.7,,,136.0,16,TRUE,user_47@example.com,+1-764-858
+CUST-1334,2022-04-09,  Ent-1  ,101.1,75.0,U.K.,281.0,20,1,user_48@example.com,+1-669-5414
+CUST-9399,2023-04-02,  PRO  ,,57.0,Armenia,292.0,5,TRUE,user_49@example.com,+1-869-4684
+ERROR_404,2023-02-06,  enterprise  ,91.73,26.0,ARM,351.0,14,1,,+1-977-7864
+ERROR_404,2022-09-12,  PRO  ,489.46,,United States,,15,0,user_51@example.com,+1-717-5175
+ERROR_404,2023-01-14,  Ent-1  ,185.83,20.0,USA,,3,No,user_52@example.com,+1-742-4555
+ERROR_404,2022-05-19,,221.27,61.0,US,95.0,2,1,user_53@example.com,+1-915-3661
+ERROR_404,2022-11-01,  Basic  ,,72.0,USA,183.0,4,TRUE,user_54@example.com,+1-900-3584
+ERROR_404,2023-03-08,  enterprise  ,101.01,20.0,U.K.,254.0,15,1,user_55@example.com,+1-356-1742
+ERROR_404,2022-07-02,  Basic  ,421.89,27.0,UK,365.0,3,TRUE,user_56@example.com,+1-820-8684
+ERROR_404,2022-12-01,  Basic  ,313.59,56.0,,235.0,3,Yes,,+1-695-2919
+ERROR_404,2022-05-08,  Ent-1  ,458.71,29.0,ARM,237.0,8,Yes,user_58@example.com,+1-456-2074
+ERROR_404,2022-03-03,  enterprise  ,,57.0,United States,327.0,4,TRUE,,+1-751-3451
+ERROR_404,2022-12-27,,157.81,62.0,Armenia,138.0,18,TRUE,user_60@example.com,+1-982-7072
+CUST-8967,2022-04-14,,276.69,24.0,U.K.,,3,1,user_61@example.com,+1-661-8053
+CUST-6190,2023-02-27,  PRO  ,290.95,49.0,USA,106.0,20,TRUE,user_62@example.com,+1-177-6385
+CUST-5363,2022-09-22,  Basic  ,443.29,43.0,ARM,,10,TRUE,user_63@example.com,+1-481-9738
+CUST-9407,2022-10-29,  enterprise  ,311.61,,United States,202.0,18,TRUE,user_64@example.com,+1-323-6451
+CUST-4180,2022-07-25,  Ent-1  ,449.08,45.0,UK,246.0,6,No,user_65@example.com,+1-126-7612
+CUST-7297,2023-03-08,,342.89,,,3.0,17,Yes,user_66@example.com,+1-634-1542
+CUST-5284,2022-01-27,  Basic  ,219.85,,USA,319.0,20,TRUE,user_67@example.com,+1-369-9178
+CUST-4596,2022-06-03,  enterprise  ,263.77,32.0,UK,102.0,14,TRUE,user_68@example.com,+1-435-3864
+CUST-9121,2022-01-10,  enterprise  ,269.74,37.0,US,284.0,8,No,user_69@example.com,+1-297-1683
+CUST-1811,2022-05-15,  PRO  ,,,,2.0,3,TRUE,,+1-850-3017
+CUST-5916,2023-04-20,  Basic  ,298.78,54.0,USA,301.0,11,TRUE,user_71@example.com,+1-732-2018
+CUST-6740,2022-01-02,,384.94,30.0,U.K.,257.0,3,FALSE,user_72@example.com,+1-550-8522
+CUST-7532,2022-11-29,  basic  ,272.89,75.0,,311.0,15,0,user_73@example.com,+1-898-992
+CUST-1265,2023-02-06,  Basic  ,332.84,22.0,,106.0,16,Yes,user_74@example.com,+1-533-3051
+CUST-9176,2023-04-03,  Ent-1  ,472.52,36.0,,155.0,10,1,user_75@example.com,+1-930-2614
+CUST-5609,2023-01-06,  Basic  ,,56.0,,14.0,20,TRUE,user_76@example.com,+1-436-9523
+CUST-7301,2023-01-09,  PRO  ,200.56,74.0,,118.0,16,Yes,user_77@example.com,+1-135-8408
+CUST-1539,2022-02-09,  basic  ,,45.0,ARM,2.0,7,No,user_78@example.com,+1-864-4948
+CUST-2535,2022-10-28,,59.87,43.0,Armenia,38.0,7,TRUE,user_79@example.com,+1-648-6196
+CUST-3903,2022-06-10,  PRO  ,276.54,65.0,,137.0,6,TRUE,user_80@example.com,+1-865-7665
+CUST-1227,2022-12-30,,353.75,53.0,US,242.0,2,Yes,user_81@example.com,+1-601-2474
+CUST-7050,2022-04-17,  PRO  ,145.96,,ARM,105.0,13,No,user_82@example.com,+1-966-6900
+CUST-4893,2022-04-21,  basic  ,353.7,29.0,USA,269.0,9,1,user_83@example.com,+1-787-2407
+CUST-8451,2022-11-06,,284.62,64.0,ARM,196.0,6,Yes,user_84@example.com,+1-128-5846
+CUST-1185,2022-12-26,  basic  ,259.01,68.0,U.K.,173.0,11,1,user_85@example.com,+1-782-6341
+CUST-7217,2022-07-11,  Basic  ,,25.0,US,11.0,5,1,user_86@example.com,+1-240-7299
+CUST-1550,2022-03-28,  Basic  ,464.05,62.0,ARM,340.0,19,TRUE,user_87@example.com,+1-655-9502
+CUST-4570,2022-03-12,  enterprise  ,,64.0,Armenia,214.0,3,TRUE,user_88@example.com,+1-837-2101
+CUST-9419,2023-01-31,  Basic  ,79.8,61.0,USA,152.0,3,No,user_89@example.com,+1-919-4640
+CUST-7922,2022-08-05,  PRO  ,429.75,,USA,,15,No,user_90@example.com,+1-151-6495
+CUST-2669,2022-08-26,,131.56,31.0,United States,313.0,20,FALSE,user_91@example.com,+1-109-8150
+CUST-6268,2022-07-15,  PRO  ,374.6,19.0,,,3,1,user_92@example.com,+1-498-2215
+CUST-3109,2023-01-10,  PRO  ,271.34,72.0,USA,162.0,4,0,user_93@example.com,+1-389-4010
+CUST-1347,2022-06-23,  Ent-1  ,105.65,51.0,US,66.0,3,1,user_94@example.com,+1-454-4459
+CUST-3551,2022-03-19,  enterprise  ,397.03,71.0,US,,14,0,user_95@example.com,+1-338-3187
+CUST-8763,2022-03-23,  basic  ,,33.0,,294.0,5,0,,+1-611-4980
+CUST-5132,2022-10-17,  basic  ,243.41,26.0,Armenia,157.0,18,FALSE,user_97@example.com,+1-465-1534
+CUST-2753,2022-05-30,  enterprise  ,332.76,66.0,ARM,235.0,7,No,user_98@example.com,+1-839-5584
+CUST-6578,2022-01-22,  basic  ,228.22,66.0,,121.0,8,Yes,user_99@example.com,+1-299-1175
+CUST-3036,2022-10-02,  enterprise  ,363.58,43.0,USA,119.0,15,0,user_100@example.com,+1-751-859
+CUST-6626,2022-12-06,  PRO  ,,67.0,ARM,165.0,19,No,user_101@example.com,+1-655-7806
+CUST-1400,2023-01-22,  enterprise  ,57.64,43.0,USA,,4,FALSE,user_102@example.com,+1-593-7525
+CUST-9292,2023-02-19,  basic  ,158.95,33.0,UK,200.0,7,FALSE,user_103@example.com,+1-667-6170
+CUST-5991,2023-03-25,  PRO  ,45.91,35.0,U.K.,238.0,12,No,user_104@example.com,+1-405-5765
+CUST-2735,2022-01-05,  PRO  ,444.63,59.0,ARM,80.0,0,FALSE,user_105@example.com,+1-574-8082
+CUST-9557,2022-11-22,  Basic  ,100.9,63.0,U.K.,230.0,16,0,user_106@example.com,+1-592-5878
+CUST-4157,2022-08-15,  Ent-1  ,,53.0,,81.0,10,1,user_107@example.com,+1-193-627
+CUST-6784,2023-02-05,  enterprise  ,429.7,34.0,USA,331.0,17,0,user_108@example.com,+1-871-4130
+CUST-8359,2022-06-29,  enterprise  ,461.42,22.0,US,296.0,10,FALSE,,+1-352-2370
+CUST-5406,2022-10-20,  Basic  ,389.52,31.0,US,180.0,7,Yes,user_110@example.com,+1-795-8220
+CUST-6946,2023-01-10,  PRO  ,203.0,,United States,365.0,20,TRUE,user_111@example.com,+1-310-3493
+CUST-3539,2022-05-30,  PRO  ,342.89,31.0,USA,79.0,13,0,user_112@example.com,+1-534-537
+CUST-3824,2022-02-21,  enterprise  ,135.86,21.0,U.K.,180.0,15,FALSE,user_113@example.com,+1-678-2526
+CUST-4225,2022-01-28,  basic  ,351.09,42.0,,132.0,20,TRUE,user_114@example.com,+1-425-5110
+CUST-4531,2022-05-10,  basic  ,319.32,33.0,United States,154.0,4,0,user_115@example.com,+1-934-7712
+CUST-5797,2022-06-04,,438.32,35.0,USA,320.0,3,1,user_116@example.com,+1-325-8658
+CUST-7088,2022-09-20,  Basic  ,322.62,66.0,UK,213.0,13,TRUE,user_117@example.com,+1-544-949
+CUST-4690,2022-12-31,  enterprise  ,454.85,41.0,,290.0,19,FALSE,user_118@example.com,+1-801-6997
+CUST-6968,2022-04-30,  enterprise  ,452.57,69.0,USA,325.0,16,1,user_119@example.com,+1-297-3772
+CUST-2811,2022-10-24,  basic  ,73.61,,Armenia,155.0,12,1,user_120@example.com,+1-510-6242
+CUST-3823,2022-01-31,  Ent-1  ,484.09,65.0,U.K.,329.0,11,1,user_121@example.com,+1-251-6725
+CUST-3127,2022-12-25,  PRO  ,248.64,39.0,UK,199.0,16,No,user_122@example.com,+1-584-2442
+CUST-4657,2022-08-29,  basic  ,105.28,74.0,ARM,328.0,0,No,user_123@example.com,+1-585-1318
+CUST-7714,2023-01-13,,285.11,19.0,US,325.0,19,TRUE,user_124@example.com,+1-162-5022
+CUST-8222,2022-11-06,  PRO  ,268.76,19.0,Armenia,85.0,8,Yes,user_125@example.com,+1-120-4541
+CUST-6785,2022-01-23,,171.65,67.0,,88.0,19,Yes,user_126@example.com,+1-801-1861
+CUST-3306,2022-03-06,  enterprise  ,279.31,37.0,U.K.,179.0,7,Yes,user_127@example.com,+1-602-6970
+CUST-6991,2022-07-01,  PRO  ,102.79,,ARM,33.0,20,No,,+1-572-8465
+CUST-1547,2022-10-05,,226.57,68.0,United States,53.0,0,1,,+1-232-1632
+CUST-7702,2023-03-03,,125.17,25.0,UK,90.0,6,1,,+1-652-876
+CUST-9388,2022-07-20,  Ent-1  ,136.27,43.0,UK,160.0,9,TRUE,user_131@example.com,+1-731-2529
+CUST-6980,2022-08-23,  enterprise  ,368.19,29.0,US,304.0,5,FALSE,user_132@example.com,+1-580-2705
+CUST-7596,2022-07-10,  Basic  ,277.91,36.0,US,255.0,14,TRUE,user_133@example.com,+1-355-7525
+CUST-1323,2022-09-17,  PRO  ,28.28,71.0,US,283.0,17,1,user_134@example.com,+1-327-6240
+CUST-4336,2022-07-31,  enterprise  ,367.52,57.0,US,246.0,16,TRUE,user_135@example.com,+1-105-5582
+CUST-6745,2022-02-12,  enterprise  ,,43.0,Armenia,192.0,13,0,user_136@example.com,+1-492-9277
+CUST-8699,2022-07-09,  basic  ,476.07,18.0,ARM,130.0,15,1,user_137@example.com,+1-966-8094
+CUST-8749,2022-11-05,  enterprise  ,127.76,,ARM,,15,TRUE,user_138@example.com,+1-697-9418
+CUST-5020,2022-05-04,,73.66,59.0,Armenia,33.0,14,1,user_139@example.com,+1-185-9408
+CUST-7176,2022-10-18,  enterprise  ,438.24,40.0,U.K.,47.0,15,Yes,user_140@example.com,+1-793-2899
+CUST-6162,2022-01-12,  Basic  ,,51.0,,148.0,15,1,user_141@example.com,+1-382-6417
+CUST-8806,2022-06-05,  basic  ,67.43,33.0,ARM,24.0,14,FALSE,user_142@example.com,+1-561-5567
+CUST-6928,2022-03-01,,273.59,60.0,U.K.,31.0,0,TRUE,,+1-692-7585
+CUST-4759,2022-04-16,  PRO  ,285.92,40.0,,,4,FALSE,user_144@example.com,+1-922-3219
+CUST-8322,2022-07-07,  Basic  ,344.46,31.0,U.K.,332.0,10,0,user_145@example.com,+1-877-5551
+CUST-4753,2022-04-06,  PRO  ,435.67,39.0,,64.0,3,No,user_146@example.com,+1-204-3379
+CUST-2433,2022-08-06,  PRO  ,403.39,28.0,,143.0,3,0,user_147@example.com,+1-182-3972
+CUST-5022,2023-02-16,  PRO  ,115.9,51.0,UK,123.0,13,Yes,user_148@example.com,+1-394-1940
+CUST-2473,2023-03-22,  enterprise  ,233.35,39.0,UK,11.0,13,Yes,,+1-982-8217
+CUST-5228,2022-08-12,  enterprise  ,183.4,59.0,USA,325.0,14,No,user_150@example.com,+1-792-8474
+CUST-5138,2022-09-06,  PRO  ,396.38,38.0,UK,351.0,14,FALSE,,+1-642-2519
+CUST-7447,2023-01-17,  Basic  ,288.58,55.0,U.K.,282.0,20,FALSE,user_152@example.com,+1-721-527
+CUST-1209,2022-09-19,,221.04,69.0,US,187.0,4,TRUE,user_153@example.com,+1-689-9498
+CUST-9485,2023-02-15,  basic  ,263.03,46.0,UK,11.0,4,0,user_154@example.com,+1-624-7325
+CUST-3763,2022-10-12,  Basic  ,164.61,30.0,US,195.0,6,No,user_155@example.com,+1-971-464
+CUST-3714,2022-09-15,  Ent-1  ,330.14,59.0,,,2,No,user_156@example.com,+1-224-3549
+CUST-9040,2023-02-24,  Basic  ,30.66,46.0,ARM,45.0,5,No,user_157@example.com,+1-541-5544
+CUST-7336,2022-01-23,  enterprise  ,,43.0,ARM,299.0,15,0,user_158@example.com,+1-166-5032
+CUST-5147,2023-03-02,  basic  ,422.31,34.0,ARM,358.0,5,TRUE,user_159@example.com,+1-678-4356
+CUST-8819,2023-02-19,  Ent-1  ,52.04,64.0,UK,308.0,4,1,user_160@example.com,+1-593-2571
+CUST-5667,2022-07-04,  enterprise  ,276.11,28.0,U.K.,10.0,3,Yes,user_161@example.com,+1-217-3904
+CUST-2527,2022-10-29,  enterprise  ,165.54,53.0,U.K.,69.0,1,TRUE,user_162@example.com,+1-347-770
+CUST-5680,2022-09-22,,258.05,18.0,,228.0,13,No,user_163@example.com,+1-211-7940
+CUST-2699,2022-04-07,  PRO  ,473.91,64.0,UK,71.0,15,No,user_164@example.com,+1-478-2773
+CUST-4543,2022-04-21,  Basic  ,453.43,50.0,USA,,11,No,user_165@example.com,+1-766-6695
+CUST-3009,2022-06-21,,192.81,,Armenia,188.0,1,TRUE,,+1-857-3428
+CUST-2797,2022-05-20,  PRO  ,115.8,22.0,Armenia,297.0,15,No,user_167@example.com,+1-202-4658
+CUST-8672,2023-03-04,  Basic  ,259.65,51.0,ARM,194.0,3,TRUE,user_168@example.com,+1-195-8853
+CUST-9789,2022-08-07,  Basic  ,467.36,24.0,USA,191.0,19,0,user_169@example.com,+1-230-7693
+CUST-8566,2022-03-31,,481.53,32.0,U.K.,87.0,0,TRUE,user_170@example.com,+1-814-735
+CUST-4797,2023-04-03,  Ent-1  ,465.82,26.0,United States,51.0,3,No,user_171@example.com,+1-359-9202
+CUST-8003,2022-09-21,  Basic  ,382.75,59.0,US,32.0,4,TRUE,user_172@example.com,+1-130-2915
+CUST-7686,2022-04-19,  basic  ,45.23,42.0,United States,262.0,6,TRUE,user_173@example.com,+1-995-649
+CUST-5406,2022-04-25,,36.69,23.0,USA,,1,Yes,user_174@example.com,+1-734-2212
+CUST-8775,2022-01-11,  Basic  ,51.56,46.0,U.K.,236.0,2,0,,+1-717-4524
+CUST-3378,2022-05-12,  PRO  ,483.54,50.0,US,44.0,10,FALSE,user_176@example.com,+1-609-1392
+CUST-8058,2023-04-09,,50.15,36.0,United States,363.0,4,0,user_177@example.com,+1-975-6403
+CUST-1528,2022-04-05,,318.24,72.0,,249.0,6,TRUE,user_178@example.com,+1-904-7832
+CUST-4385,2022-10-30,  PRO  ,134.45,66.0,US,274.0,0,TRUE,,+1-959-3915
+CUST-1941,2023-02-20,  enterprise  ,118.11,27.0,USA,,3,TRUE,user_180@example.com,+1-208-8419
+CUST-7892,2022-05-15,,173.86,62.0,Armenia,13.0,12,0,user_181@example.com,+1-752-7321
+CUST-1085,2022-01-26,  Ent-1  ,59.75,37.0,Armenia,0.0,15,Yes,user_182@example.com,+1-177-457
+CUST-2078,2022-03-01,  Basic  ,349.28,,United States,309.0,13,0,user_183@example.com,+1-319-5512
+CUST-2108,2022-09-01,  Ent-1  ,,65.0,UK,,18,TRUE,user_184@example.com,+1-221-9376
+CUST-6159,2023-01-05,,167.2,21.0,U.K.,207.0,14,0,user_185@example.com,+1-954-3614
+CUST-1055,2022-05-15,  Ent-1  ,186.51,41.0,US,55.0,14,FALSE,user_186@example.com,+1-534-2742
+CUST-9101,2022-12-28,  enterprise  ,40.76,46.0,USA,266.0,18,Yes,user_187@example.com,+1-940-2469
+CUST-2658,2022-02-01,  Basic  ,295.6,34.0,ARM,284.0,1,TRUE,user_188@example.com,+1-442-3416
+CUST-1949,2023-01-23,  Ent-1  ,492.67,,ARM,238.0,13,No,user_189@example.com,+1-584-6652
+CUST-5946,2022-02-11,  enterprise  ,458.46,60.0,United States,104.0,16,1,user_190@example.com,+1-118-3990
+CUST-8270,2023-05-16,  Ent-1  ,240.66,33.0,ARM,259.0,12,No,,+1-140-494
+CUST-1546,2022-05-22,  Basic  ,,19.0,UK,54.0,2,1,user_192@example.com,+1-656-6408
+CUST-7383,2022-01-27,  basic  ,177.67,55.0,UK,268.0,15,1,user_193@example.com,+1-811-4189
+CUST-9112,2023-04-25,  Basic  ,372.57,61.0,UK,,9,FALSE,user_194@example.com,+1-997-8846
+CUST-6924,2022-12-17,  Basic  ,206.41,38.0,Armenia,272.0,11,1,user_195@example.com,+1-387-1337
+CUST-8435,2022-11-06,,350.82,45.0,Armenia,,5,TRUE,user_196@example.com,+1-499-8667
+CUST-9592,2023-03-05,  Ent-1  ,438.15,28.0,,113.0,13,FALSE,user_197@example.com,+1-676-7206
+CUST-5863,2022-06-21,  PRO  ,,46.0,U.K.,240.0,8,1,user_198@example.com,+1-997-4646
+CUST-2240,2022-03-04,,,42.0,USA,31.0,10,FALSE,user_199@example.com,+1-923-1545
+CUST-4987,2023-04-16,,22.58,37.0,UK,79.0,1,TRUE,user_200@example.com,+1-798-5862
+CUST-6160,2023-04-16,  PRO  ,30.73,39.0,,342.0,3,0,user_201@example.com,+1-470-1928
+CUST-6529,2022-08-30,  Basic  ,429.83,34.0,United States,221.0,16,TRUE,user_202@example.com,+1-708-2455
+CUST-4265,2022-12-02,,52.01,63.0,Armenia,,6,FALSE,user_203@example.com,+1-394-652
+CUST-4688,2023-03-12,  Ent-1  ,131.46,53.0,ARM,214.0,3,No,user_204@example.com,+1-103-5484
+CUST-1399,2023-05-14,  Ent-1  ,203.18,72.0,United States,46.0,16,No,,+1-826-9554
+CUST-9531,2023-02-17,  enterprise  ,86.36,60.0,,,13,No,,+1-872-4039
+CUST-5009,2022-01-21,  enterprise  ,140.12,42.0,U.K.,334.0,2,1,user_207@example.com,+1-532-6072
+CUST-2284,2022-11-09,  PRO  ,,35.0,ARM,260.0,5,No,user_208@example.com,+1-316-2569
+CUST-8200,2022-01-22,  basic  ,488.75,18.0,ARM,23.0,17,TRUE,user_209@example.com,+1-848-9587
+CUST-5409,2022-08-26,  Ent-1  ,,42.0,,346.0,7,No,user_210@example.com,+1-908-617
+CUST-1618,2022-05-08,,465.25,72.0,United States,,20,FALSE,user_211@example.com,+1-794-9041
+CUST-4372,2023-01-15,,124.38,,USA,229.0,12,1,user_212@example.com,+1-782-1725
+CUST-8157,2022-12-06,  enterprise  ,,21.0,US,120.0,14,Yes,user_213@example.com,+1-337-2266
+CUST-1175,2022-05-20,  PRO  ,438.89,71.0,USA,334.0,18,FALSE,user_214@example.com,+1-370-6814
+CUST-5366,2023-05-06,  enterprise  ,495.03,42.0,,302.0,18,1,user_215@example.com,+1-147-1468
+CUST-2046,2022-11-17,  basic  ,219.37,31.0,,363.0,11,Yes,user_216@example.com,+1-208-6309
+CUST-7805,2022-08-17,  Basic  ,33.57,60.0,US,142.0,19,No,user_217@example.com,+1-975-4005
+CUST-5894,2022-05-06,  PRO  ,,56.0,UK,322.0,1,FALSE,user_218@example.com,+1-497-5692
+CUST-2613,2022-11-25,,110.02,,UK,259.0,1,0,,+1-700-1375
+CUST-5834,2022-08-04,  PRO  ,156.57,63.0,US,175.0,15,FALSE,user_220@example.com,+1-428-7585
+CUST-4026,2022-08-19,  Ent-1  ,369.0,70.0,U.K.,168.0,13,0,user_221@example.com,+1-520-7557
+CUST-3879,2023-03-18,  Ent-1  ,192.54,34.0,,310.0,15,1,user_222@example.com,+1-553-7372
+CUST-8312,2022-07-06,  Basic  ,176.58,46.0,United States,207.0,16,FALSE,user_223@example.com,+1-241-1248
+CUST-8396,2022-02-24,  Ent-1  ,355.3,72.0,U.K.,,20,FALSE,user_224@example.com,+1-542-6720
+CUST-8470,2022-02-18,  Ent-1  ,159.82,58.0,United States,117.0,8,0,user_225@example.com,+1-615-8979
+CUST-2535,2022-12-15,,266.32,35.0,USA,340.0,19,Yes,user_226@example.com,+1-500-3562
+CUST-2447,2023-04-27,,470.78,33.0,U.K.,185.0,14,1,user_227@example.com,+1-249-2900
+CUST-6906,2022-09-08,,257.28,33.0,USA,180.0,15,1,user_228@example.com,+1-994-3202
+CUST-1082,2022-12-01,  enterprise  ,78.63,48.0,UK,240.0,18,No,user_229@example.com,+1-307-8184
+CUST-8043,2022-11-02,,142.42,39.0,Armenia,310.0,1,1,user_230@example.com,+1-176-6840
+CUST-6183,2023-05-14,,373.48,,USA,191.0,20,0,user_231@example.com,+1-481-6976
+CUST-9803,2023-01-10,  basic  ,85.87,49.0,UK,239.0,19,No,user_232@example.com,+1-990-1345
+CUST-8057,2022-08-05,  enterprise  ,15.39,40.0,UK,191.0,8,Yes,user_233@example.com,+1-749-5790
+CUST-9670,2022-12-23,  basic  ,326.67,35.0,U.K.,231.0,6,0,user_234@example.com,+1-789-7807
+CUST-1967,2022-06-30,  enterprise  ,417.54,46.0,United States,99.0,4,No,user_235@example.com,+1-597-8355
+CUST-6581,2023-02-25,  Ent-1  ,360.98,60.0,USA,3.0,20,Yes,user_236@example.com,+1-840-4709
+CUST-2320,2022-02-08,  basic  ,285.82,70.0,USA,119.0,17,No,,+1-450-2787
+CUST-5459,2023-01-16,  enterprise  ,281.45,40.0,U.K.,233.0,18,Yes,user_238@example.com,+1-905-7174
+CUST-8686,2023-02-13,  Ent-1  ,221.35,,ARM,51.0,5,FALSE,user_239@example.com,+1-753-9319
+CUST-3833,2022-01-20,,70.48,,ARM,57.0,14,0,user_240@example.com,+1-276-6718
+CUST-8687,2022-09-29,  PRO  ,307.73,36.0,US,38.0,16,1,,+1-674-7701
+CUST-7055,2022-02-18,  basic  ,21.82,75.0,United States,2.0,14,FALSE,user_242@example.com,+1-978-2209
+CUST-9839,2022-10-31,  basic  ,93.56,31.0,U.K.,212.0,9,0,user_243@example.com,+1-424-8151
+CUST-1696,2022-08-06,  PRO  ,,52.0,U.K.,32.0,7,1,user_244@example.com,+1-870-3987
+CUST-9912,2022-12-04,  Ent-1  ,370.11,,UK,324.0,9,0,user_245@example.com,+1-132-2083
+CUST-3185,2022-10-03,  Basic  ,10.48,,United States,74.0,15,TRUE,user_246@example.com,+1-867-5913
+CUST-6972,2023-01-31,  PRO  ,433.32,,US,145.0,15,TRUE,user_247@example.com,+1-519-8363
+CUST-4313,2022-03-11,  basic  ,131.39,74.0,United States,232.0,9,Yes,user_248@example.com,+1-429-4016
+CUST-9415,2022-03-27,  enterprise  ,52.75,54.0,US,83.0,20,FALSE,user_249@example.com,+1-834-1093
+CUST-9415,2022-02-01,  Basic  ,179.5,54.0,,143.0,1,Yes,,+1-901-6643
+CUST-6805,2022-09-28,  PRO  ,465.23,63.0,USA,222.0,15,TRUE,user_251@example.com,+1-484-4162
+CUST-3706,2022-01-12,  Basic  ,370.05,60.0,USA,67.0,13,Yes,user_252@example.com,+1-628-1801
+CUST-3796,2022-08-01,  Basic  ,119.02,55.0,,23.0,13,TRUE,,+1-861-6804
+CUST-1739,2022-09-08,  Basic  ,246.25,61.0,US,,17,Yes,user_254@example.com,+1-105-3530
+CUST-9775,2022-09-22,,15.83,63.0,Armenia,40.0,9,TRUE,user_255@example.com,+1-253-9456
+CUST-2699,2022-08-03,  basic  ,254.44,26.0,,238.0,7,FALSE,user_256@example.com,+1-692-4005
+CUST-6197,2022-02-01,  Basic  ,137.51,43.0,U.K.,209.0,20,1,user_257@example.com,+1-912-6688
+CUST-1161,2022-11-21,  basic  ,455.41,66.0,USA,111.0,2,Yes,user_258@example.com,+1-834-8453
+CUST-2369,2022-06-04,  basic  ,272.89,,Armenia,85.0,16,0,user_259@example.com,+1-999-905
+CUST-4221,2023-04-19,  PRO  ,,60.0,,69.0,6,No,user_260@example.com,+1-986-5269
+CUST-8817,2022-01-05,,138.42,60.0,U.K.,313.0,0,No,user_261@example.com,+1-564-284
+CUST-9023,2022-06-10,  Ent-1  ,219.69,,US,158.0,16,FALSE,user_262@example.com,+1-129-4315
+CUST-4836,2022-12-16,  PRO  ,228.13,42.0,U.K.,89.0,19,FALSE,user_263@example.com,+1-534-504
+CUST-3374,2022-04-25,  Ent-1  ,259.42,,UK,222.0,0,1,user_264@example.com,+1-105-8508
+CUST-6255,2023-01-13,  enterprise  ,498.1,27.0,USA,132.0,19,TRUE,user_265@example.com,+1-651-7541
+CUST-8570,2023-03-07,  Ent-1  ,135.16,56.0,ARM,115.0,7,Yes,user_266@example.com,+1-312-109
+CUST-6228,2022-01-31,  Basic  ,345.84,41.0,U.K.,232.0,14,1,user_267@example.com,+1-673-5550
+CUST-8163,2023-05-15,  enterprise  ,304.66,47.0,Armenia,184.0,12,Yes,user_268@example.com,+1-181-8251
+CUST-5841,2023-02-18,  PRO  ,291.26,23.0,US,77.0,19,TRUE,user_269@example.com,+1-826-2295
+CUST-6673,2022-07-11,  basic  ,221.23,22.0,USA,,13,No,,+1-644-5340
+CUST-1256,2022-12-11,,301.61,37.0,UK,356.0,6,No,user_271@example.com,+1-433-8641
+CUST-1514,2022-04-06,  Ent-1  ,455.16,26.0,United States,80.0,15,FALSE,user_272@example.com,+1-452-9854
+CUST-8365,2022-04-02,  Basic  ,153.47,63.0,ARM,228.0,8,TRUE,user_273@example.com,+1-783-8136
+CUST-5411,2023-01-14,  enterprise  ,485.15,56.0,United States,198.0,3,0,user_274@example.com,+1-899-6918
+CUST-8515,2022-05-02,,425.02,,US,235.0,19,0,user_275@example.com,+1-919-2351
+CUST-2518,2022-01-23,  basic  ,310.46,70.0,ARM,123.0,17,FALSE,user_276@example.com,+1-302-3036
+CUST-3804,2022-02-01,  enterprise  ,,59.0,United States,27.0,17,0,user_277@example.com,+1-234-8597
+CUST-6900,2022-01-29,  enterprise  ,240.59,26.0,Armenia,63.0,2,0,user_278@example.com,+1-711-8409
+CUST-3066,2022-01-25,,87.1,67.0,,104.0,12,FALSE,user_279@example.com,+1-246-5052
+CUST-2936,2023-03-21,  enterprise  ,459.31,46.0,Armenia,344.0,0,FALSE,user_280@example.com,+1-571-6328
+CUST-6939,2022-07-05,,485.42,35.0,US,314.0,2,1,user_281@example.com,+1-947-3309
+CUST-4238,2023-05-05,  enterprise  ,129.77,64.0,UK,139.0,11,0,user_282@example.com,+1-825-4547
+CUST-2657,2022-04-23,,231.25,71.0,,68.0,8,1,user_283@example.com,+1-224-8718
+CUST-6018,2023-01-24,  basic  ,466.08,72.0,US,252.0,0,No,,+1-729-2519
+CUST-5911,2022-09-02,  Ent-1  ,317.28,55.0,U.K.,184.0,11,1,user_285@example.com,+1-536-4250
+CUST-4601,2023-04-30,  PRO  ,192.57,19.0,ARM,174.0,10,TRUE,user_286@example.com,+1-528-9013
+CUST-9006,2022-03-15,  PRO  ,455.52,48.0,UK,321.0,9,Yes,,+1-737-6436
+CUST-3657,2022-09-18,  basic  ,241.87,30.0,,52.0,8,0,user_288@example.com,+1-345-118
+CUST-1751,2022-03-09,  basic  ,440.59,39.0,ARM,145.0,16,Yes,user_289@example.com,+1-299-3784
+CUST-7112,2022-01-28,,,63.0,USA,9.0,14,1,user_290@example.com,+1-335-6751
+CUST-9536,2022-01-02,  basic  ,405.06,59.0,UK,,13,FALSE,user_291@example.com,+1-348-4982
+CUST-2062,2022-09-26,  basic  ,495.14,38.0,US,220.0,15,FALSE,user_292@example.com,+1-727-4608
+CUST-8263,2022-01-26,  basic  ,355.26,46.0,U.K.,,14,0,user_293@example.com,+1-148-4730
+CUST-5012,2023-01-08,  PRO  ,302.11,54.0,ARM,79.0,1,1,user_294@example.com,+1-327-7721
+CUST-8732,2023-01-21,  Ent-1  ,199.6,63.0,US,,10,0,user_295@example.com,+1-178-2225
+CUST-6853,2022-12-26,  PRO  ,175.78,28.0,USA,187.0,0,1,user_296@example.com,+1-279-5349
+CUST-2077,2022-03-28,  PRO  ,113.82,,Armenia,195.0,3,1,user_297@example.com,+1-172-7136
+CUST-3162,2022-10-27,  enterprise  ,317.94,,UK,,17,0,user_298@example.com,+1-403-6033
+CUST-7535,2022-03-14,  basic  ,161.45,72.0,Armenia,141.0,9,FALSE,user_299@example.com,+1-277-5702
+CUST-7901,2022-10-30,  enterprise  ,260.13,36.0,,101.0,2,No,user_300@example.com,+1-665-1434
+CUST-3068,2022-01-10,  enterprise  ,200.87,22.0,ARM,171.0,1,TRUE,user_301@example.com,+1-714-5043
+CUST-3067,2022-10-30,  Basic  ,40.28,19.0,,184.0,2,Yes,user_302@example.com,+1-621-4423
+CUST-1981,2022-02-19,  Basic  ,230.03,52.0,ARM,128.0,15,1,user_303@example.com,+1-177-4645
+CUST-6823,2022-10-28,  enterprise  ,369.09,75.0,USA,258.0,16,FALSE,user_304@example.com,+1-743-3647
+CUST-9976,2022-04-08,  basic  ,61.66,22.0,Armenia,111.0,20,FALSE,user_305@example.com,+1-737-2097
+CUST-3822,2022-03-19,,,32.0,USA,220.0,8,1,user_306@example.com,+1-774-9854
+CUST-2079,2022-05-11,  Ent-1  ,78.09,45.0,USA,133.0,1,0,user_307@example.com,+1-375-2311
+CUST-4633,2022-05-25,  Basic  ,391.82,63.0,United States,,13,0,user_308@example.com,+1-867-6470
+CUST-5051,2022-11-15,  Basic  ,,28.0,Armenia,358.0,20,Yes,user_309@example.com,+1-912-3574
+CUST-9358,2022-04-08,  basic  ,424.58,60.0,United States,344.0,15,TRUE,user_310@example.com,+1-801-7134
+CUST-7782,2022-02-21,  Basic  ,472.23,23.0,U.K.,170.0,1,Yes,,+1-985-1506
+CUST-1974,2022-06-13,,139.02,67.0,U.K.,356.0,0,FALSE,user_312@example.com,+1-319-931
+CUST-7997,2022-12-09,,355.12,61.0,United States,128.0,4,0,,+1-562-1579
+CUST-6473,2022-11-13,  basic  ,454.41,61.0,USA,49.0,19,Yes,user_314@example.com,+1-828-5010
+CUST-3488,2022-01-22,  enterprise  ,465.31,53.0,United States,285.0,1,TRUE,user_315@example.com,+1-860-8299
+CUST-1305,2023-05-04,  basic  ,243.33,,USA,211.0,0,TRUE,user_316@example.com,+1-769-9546
+CUST-5404,2023-02-15,  PRO  ,460.88,70.0,U.K.,,4,0,user_317@example.com,+1-452-3027
+CUST-7303,2023-01-23,  Basic  ,388.92,74.0,US,87.0,0,No,user_318@example.com,+1-410-8045
+CUST-5231,2022-12-21,  Ent-1  ,58.2,41.0,U.K.,64.0,12,FALSE,user_319@example.com,+1-563-1903
+CUST-8211,2023-02-26,  Ent-1  ,60.68,69.0,United States,69.0,8,FALSE,user_320@example.com,+1-786-3449
+CUST-4238,2023-01-24,  enterprise  ,,50.0,United States,,20,0,user_321@example.com,+1-446-3533
+CUST-2969,2022-03-26,  enterprise  ,121.65,57.0,US,,5,No,user_322@example.com,+1-765-5295
+CUST-8133,2023-02-09,  PRO  ,278.08,54.0,USA,228.0,6,0,user_323@example.com,+1-695-4622
+CUST-6694,2022-08-14,  PRO  ,351.78,,US,,16,No,user_324@example.com,+1-267-5450
+CUST-2994,2022-06-06,  enterprise  ,352.5,49.0,Armenia,150.0,7,No,user_325@example.com,+1-268-9928
+CUST-5745,2022-09-07,  Basic  ,145.44,36.0,United States,146.0,19,TRUE,user_326@example.com,+1-910-2048
+CUST-3630,2022-10-31,  PRO  ,422.61,41.0,US,319.0,1,1,user_327@example.com,+1-132-9698
+CUST-9956,2022-05-04,  enterprise  ,29.26,55.0,UK,16.0,9,0,user_328@example.com,+1-124-5766
+CUST-3880,2022-03-23,  Basic  ,465.52,27.0,US,276.0,5,1,user_329@example.com,+1-793-2782
+CUST-9722,2023-01-08,,336.89,62.0,USA,57.0,4,Yes,user_330@example.com,+1-119-3046
+CUST-7507,2022-03-04,,104.67,75.0,UK,283.0,4,FALSE,user_331@example.com,+1-762-4089
+CUST-1020,2022-08-14,  enterprise  ,185.88,,UK,296.0,9,TRUE,user_332@example.com,+1-114-7032
+CUST-7901,2022-10-09,  Ent-1  ,,60.0,US,17.0,3,1,user_333@example.com,+1-261-5319
+CUST-7588,2023-01-07,  PRO  ,381.69,57.0,United States,201.0,11,FALSE,user_334@example.com,+1-642-1885
+CUST-5431,2023-04-22,  Ent-1  ,496.71,42.0,USA,224.0,8,0,user_335@example.com,+1-826-8546
+CUST-2127,2022-03-06,  basic  ,216.3,27.0,US,362.0,10,TRUE,user_336@example.com,+1-613-3801
+CUST-3700,2022-12-11,  Ent-1  ,318.93,,UK,73.0,18,No,user_337@example.com,+1-586-3612
+CUST-8062,2022-12-17,  Ent-1  ,54.04,57.0,Armenia,72.0,12,Yes,user_338@example.com,+1-879-985
+CUST-3873,2022-10-23,  Ent-1  ,293.17,33.0,United States,166.0,0,Yes,user_339@example.com,+1-740-6226
+CUST-7853,2023-02-01,  PRO  ,362.36,71.0,U.K.,73.0,4,1,user_340@example.com,+1-906-1391
+CUST-6596,2022-05-16,  basic  ,467.35,75.0,ARM,130.0,13,FALSE,user_341@example.com,+1-886-4409
+CUST-3155,2022-06-08,  Ent-1  ,324.89,,ARM,181.0,4,Yes,user_342@example.com,+1-652-5874
+CUST-6359,2023-01-17,  PRO  ,279.87,61.0,UK,362.0,11,FALSE,user_343@example.com,+1-975-2962
+CUST-5256,2023-04-10,  enterprise  ,,32.0,United States,20.0,14,FALSE,user_344@example.com,+1-482-2287
+CUST-7996,2022-05-28,  Basic  ,245.78,57.0,UK,311.0,11,Yes,,+1-263-9865
+CUST-8702,2022-10-24,  PRO  ,261.19,22.0,United States,365.0,2,1,user_346@example.com,+1-882-5553
+CUST-2781,2022-08-16,  PRO  ,210.03,41.0,Armenia,186.0,6,Yes,user_347@example.com,+1-307-6850
+CUST-1329,2022-07-09,  Ent-1  ,252.75,63.0,United States,307.0,17,0,user_348@example.com,+1-934-1483
+CUST-2610,2022-05-16,  Ent-1  ,83.91,31.0,,95.0,16,1,user_349@example.com,+1-122-4020
+CUST-9095,2022-01-30,,,32.0,,92.0,8,FALSE,,+1-223-8578
+CUST-9961,2022-12-20,  Ent-1  ,354.54,45.0,United States,30.0,20,FALSE,,+1-103-630
+CUST-3765,2022-07-06,  Basic  ,,25.0,,215.0,6,TRUE,user_352@example.com,+1-865-1191
+CUST-9997,2023-01-12,  Basic  ,10.51,32.0,Armenia,224.0,19,FALSE,user_353@example.com,+1-242-748
+CUST-9330,2023-03-29,  PRO  ,452.28,39.0,United States,88.0,14,FALSE,user_354@example.com,+1-490-537
+CUST-5426,2023-02-22,  Ent-1  ,21.4,70.0,Armenia,137.0,10,Yes,,+1-655-3898
+CUST-6830,2023-01-09,  basic  ,407.53,38.0,US,,0,FALSE,user_356@example.com,+1-654-7710
+CUST-5548,2023-04-04,  basic  ,243.85,73.0,United States,342.0,5,TRUE,user_357@example.com,+1-231-6258
+CUST-9706,2022-03-08,  basic  ,385.74,30.0,U.K.,236.0,16,1,user_358@example.com,+1-183-1071
+CUST-7537,2023-03-06,  Basic  ,359.48,25.0,,193.0,18,FALSE,user_359@example.com,+1-131-5913
+CUST-8105,2022-12-20,  Basic  ,439.76,47.0,,111.0,19,TRUE,user_360@example.com,+1-887-2561
+CUST-2349,2023-03-09,  Ent-1  ,106.63,46.0,Armenia,361.0,8,TRUE,user_361@example.com,+1-108-3286
+CUST-2456,2022-07-28,  PRO  ,205.55,48.0,ARM,141.0,20,TRUE,user_362@example.com,+1-193-6848
+CUST-3713,2022-04-04,  PRO  ,348.41,20.0,USA,309.0,7,No,user_363@example.com,+1-907-7901
+CUST-8036,2022-06-29,  enterprise  ,439.74,35.0,U.K.,,1,0,user_364@example.com,+1-889-6793
+CUST-9843,2022-10-15,,321.28,50.0,,204.0,1,FALSE,user_365@example.com,+1-951-1856
+CUST-5896,2022-10-23,,34.01,38.0,United States,69.0,7,1,user_366@example.com,+1-280-4757
+CUST-9193,2023-03-03,  Ent-1  ,467.86,36.0,U.K.,335.0,8,TRUE,user_367@example.com,+1-326-996
+CUST-9513,2023-04-09,  basic  ,307.84,20.0,U.K.,0.0,7,No,user_368@example.com,+1-792-6166
+CUST-4209,2022-11-29,  basic  ,150.05,65.0,U.K.,250.0,5,TRUE,user_369@example.com,+1-342-5712
+CUST-1699,2023-05-06,,403.8,37.0,US,,12,TRUE,user_370@example.com,+1-839-2337
+CUST-1795,2023-02-02,  enterprise  ,,74.0,USA,194.0,5,0,user_371@example.com,+1-923-8348
+CUST-6539,2022-05-27,  Ent-1  ,299.93,68.0,USA,236.0,10,FALSE,user_372@example.com,+1-816-3993
+CUST-7836,2022-10-01,  Ent-1  ,208.75,32.0,,163.0,14,1,,+1-806-8318
+CUST-9051,2022-04-26,  PRO  ,210.16,43.0,UK,313.0,14,No,user_374@example.com,+1-987-9048
+CUST-8872,2022-12-30,,338.61,54.0,UK,293.0,14,No,user_375@example.com,+1-259-6422
+CUST-9687,2022-10-21,  enterprise  ,232.0,64.0,USA,22.0,17,TRUE,user_376@example.com,+1-460-6603
+CUST-5440,2022-08-24,  PRO  ,174.37,37.0,United States,296.0,1,TRUE,user_377@example.com,+1-382-6595
+CUST-4068,2022-10-04,,224.67,,USA,152.0,16,No,user_378@example.com,+1-261-8810
+CUST-1689,2022-06-19,  enterprise  ,151.43,44.0,US,322.0,8,1,user_379@example.com,+1-254-121
+CUST-5753,2022-04-14,  Basic  ,374.35,45.0,United States,365.0,6,TRUE,user_380@example.com,+1-558-3000
+CUST-4230,2022-02-28,  PRO  ,241.06,54.0,US,276.0,11,1,user_381@example.com,+1-692-3548
+CUST-2808,2022-07-13,  PRO  ,26.44,53.0,Armenia,364.0,17,Yes,user_382@example.com,+1-418-2594
+CUST-6480,2022-02-14,  Ent-1  ,479.28,58.0,USA,256.0,19,FALSE,user_383@example.com,+1-607-465
+CUST-9508,2022-03-26,  basic  ,363.38,49.0,UK,245.0,10,1,user_384@example.com,+1-571-522
+CUST-4107,2023-03-05,,171.91,63.0,USA,213.0,19,Yes,,+1-792-3875
+CUST-8375,2022-05-11,  PRO  ,247.66,48.0,USA,157.0,8,No,user_386@example.com,+1-720-3021
+CUST-9154,2023-05-13,,367.29,30.0,U.K.,43.0,12,1,user_387@example.com,+1-267-9237
+CUST-1840,2022-04-14,,,37.0,UK,225.0,3,Yes,,+1-338-8766
+CUST-8754,2023-03-11,  enterprise  ,317.83,37.0,USA,130.0,5,No,user_389@example.com,+1-238-5978
+CUST-8354,2023-02-13,  PRO  ,,30.0,,94.0,4,TRUE,user_390@example.com,+1-967-5917
+CUST-1257,2022-04-01,,221.33,,United States,11.0,19,TRUE,user_391@example.com,+1-650-7787
+CUST-8191,2022-05-02,  basic  ,185.97,35.0,U.K.,339.0,4,Yes,user_392@example.com,+1-305-7933
+CUST-3224,2022-01-21,  basic  ,492.14,54.0,,,1,0,user_393@example.com,+1-678-139
+CUST-7605,2022-09-28,  Basic  ,251.35,32.0,USA,223.0,2,No,user_394@example.com,+1-620-1589
+CUST-7139,2023-02-20,  PRO  ,450.89,52.0,ARM,,10,TRUE,user_395@example.com,+1-472-900
+CUST-3589,2023-05-09,  Ent-1  ,71.6,62.0,U.K.,112.0,14,TRUE,user_396@example.com,+1-808-2632
+CUST-3419,2022-01-03,  enterprise  ,247.27,,ARM,5.0,20,No,user_397@example.com,+1-968-5431
+CUST-3969,2022-08-28,  Ent-1  ,,43.0,Armenia,91.0,3,TRUE,user_398@example.com,+1-888-2204
+CUST-5740,2022-05-06,,187.18,,UK,102.0,14,1,,+1-822-7858
+CUST-7622,2023-03-16,  PRO  ,115.11,57.0,Armenia,235.0,2,1,user_400@example.com,+1-511-4953
+CUST-5146,2022-11-05,,469.63,32.0,U.K.,350.0,12,Yes,,+1-251-1412
+CUST-9812,2022-06-26,,222.29,,Armenia,156.0,3,No,user_402@example.com,+1-591-8098
+CUST-7631,2023-03-15,  Basic  ,214.68,,U.K.,,4,TRUE,user_403@example.com,+1-261-7428
+CUST-4017,2022-01-07,,439.4,25.0,UK,263.0,17,TRUE,user_404@example.com,+1-251-1145
+CUST-3927,2022-12-17,  Ent-1  ,407.15,59.0,United States,21.0,20,TRUE,user_405@example.com,+1-787-4435
+CUST-9609,2022-12-19,  enterprise  ,261.67,48.0,United States,53.0,0,No,user_406@example.com,+1-430-4415
+CUST-4416,2023-03-25,  enterprise  ,141.92,51.0,ARM,253.0,16,0,user_407@example.com,+1-545-5726
+CUST-4433,2022-01-08,,42.04,49.0,United States,,7,No,,+1-108-7724
+CUST-2099,2022-04-08,  PRO  ,454.75,,Armenia,209.0,15,0,user_409@example.com,+1-770-4239
+CUST-2878,2022-03-31,  Basic  ,71.5,31.0,UK,178.0,5,0,user_410@example.com,+1-250-3153
+CUST-5180,2022-01-07,  Ent-1  ,63.3,56.0,USA,87.0,7,1,user_411@example.com,+1-681-7808
+CUST-7591,2022-08-03,  enterprise  ,369.89,51.0,U.K.,49.0,3,0,,+1-768-7322
+CUST-4320,2022-11-26,  PRO  ,,54.0,United States,24.0,6,No,user_413@example.com,+1-833-840
+CUST-9253,2022-02-15,  enterprise  ,38.8,36.0,Armenia,184.0,17,0,user_414@example.com,+1-512-886
+CUST-6719,2022-10-02,  enterprise  ,182.12,64.0,United States,53.0,2,0,user_415@example.com,+1-970-4961
+CUST-9346,2022-09-24,  Ent-1  ,370.28,,Armenia,203.0,4,0,user_416@example.com,+1-675-2552
+CUST-3036,2022-03-15,  Basic  ,13.15,56.0,ARM,242.0,9,TRUE,user_417@example.com,+1-153-2183
+CUST-3397,2022-06-04,,229.4,23.0,ARM,323.0,11,No,user_418@example.com,+1-139-1992
+CUST-4101,2022-08-15,  Ent-1  ,193.55,42.0,,84.0,13,0,user_419@example.com,+1-580-2824
+CUST-2598,2022-10-03,  basic  ,292.01,68.0,ARM,116.0,15,Yes,user_420@example.com,+1-165-7029
+CUST-2826,2022-01-15,,32.99,56.0,US,365.0,6,Yes,user_421@example.com,+1-276-6442
+CUST-8357,2022-12-20,  Basic  ,428.54,29.0,,98.0,3,TRUE,user_422@example.com,+1-873-3498
+CUST-7523,2022-05-28,  Ent-1  ,,45.0,U.K.,279.0,7,1,user_423@example.com,+1-950-5983
+CUST-5430,2023-02-14,  basic  ,319.85,,United States,99.0,2,No,user_424@example.com,+1-675-8470
+CUST-2431,2023-04-10,  basic  ,,34.0,U.K.,305.0,10,No,,+1-389-8832
+CUST-3331,2022-05-07,  enterprise  ,207.69,70.0,US,21.0,7,FALSE,user_426@example.com,+1-366-4459
+CUST-1834,2022-08-31,  basic  ,214.17,,United States,21.0,9,0,user_427@example.com,+1-569-6069
+CUST-8096,2022-03-18,  enterprise  ,,63.0,UK,219.0,12,No,user_428@example.com,+1-698-6830
+CUST-3047,2022-12-28,  Basic  ,370.83,42.0,USA,,19,1,user_429@example.com,+1-428-434
+CUST-2073,2022-01-03,,450.47,66.0,United States,176.0,18,TRUE,user_430@example.com,+1-748-3570
+CUST-4864,2022-08-24,  basic  ,242.59,75.0,UK,332.0,18,Yes,user_431@example.com,+1-282-3088
+CUST-1607,2023-05-02,,89.23,74.0,UK,348.0,19,0,user_432@example.com,+1-811-7646
+CUST-9049,2022-08-13,  basic  ,388.27,27.0,UK,,13,FALSE,user_433@example.com,+1-993-2496
+CUST-6348,2023-04-08,  enterprise  ,199.68,65.0,UK,143.0,3,No,user_434@example.com,+1-540-6811
+CUST-9595,2023-03-30,  Ent-1  ,436.54,74.0,,142.0,5,FALSE,user_435@example.com,+1-538-4461
+CUST-1807,2022-03-09,  enterprise  ,439.75,32.0,,,10,No,user_436@example.com,+1-421-4843
+CUST-5682,2022-09-17,  basic  ,210.4,62.0,ARM,111.0,5,TRUE,user_437@example.com,+1-467-8080
+CUST-7076,2022-06-21,  Basic  ,30.71,,United States,112.0,9,TRUE,user_438@example.com,+1-768-6387
+CUST-3369,2023-02-15,  PRO  ,235.14,28.0,U.K.,331.0,20,1,user_439@example.com,+1-949-4812
+CUST-7549,2022-02-15,  Basic  ,154.28,,Armenia,221.0,11,1,user_440@example.com,+1-746-3953
+CUST-9910,2023-04-15,  Basic  ,254.05,35.0,U.K.,340.0,0,0,user_441@example.com,+1-530-3996
+CUST-3293,2022-04-16,  basic  ,,56.0,,,3,No,user_442@example.com,+1-661-5477
+CUST-2588,2022-06-10,,231.74,27.0,United States,165.0,9,1,user_443@example.com,+1-193-1174
+CUST-9750,2022-06-09,,442.75,,U.K.,335.0,15,0,user_444@example.com,+1-621-7954
+CUST-5314,2022-06-05,,279.57,23.0,U.K.,348.0,1,No,user_445@example.com,+1-460-6960
+CUST-1054,2022-08-10,  Basic  ,98.95,65.0,Armenia,326.0,10,TRUE,user_446@example.com,+1-831-3407
+CUST-9485,2022-09-30,  PRO  ,496.62,,,34.0,12,No,user_447@example.com,+1-572-3650
+CUST-7540,2023-04-18,,237.83,31.0,United States,47.0,2,TRUE,user_448@example.com,+1-201-4157
+CUST-7678,2023-05-14,  PRO  ,52.1,24.0,United States,14.0,14,Yes,user_449@example.com,+1-746-984
+CUST-3448,2022-06-16,  Basic  ,313.78,,UK,290.0,16,TRUE,user_450@example.com,+1-440-4934
+CUST-8263,2022-08-04,  Ent-1  ,,33.0,United States,251.0,18,0,user_451@example.com,+1-592-4651
+CUST-8962,2023-04-13,  Basic  ,477.86,58.0,Armenia,254.0,4,1,user_452@example.com,+1-885-4768
+CUST-5837,2022-10-05,  Ent-1  ,249.32,62.0,UK,180.0,1,1,user_453@example.com,+1-849-3246
+CUST-3134,2022-01-16,  basic  ,49.73,28.0,U.K.,262.0,3,Yes,user_454@example.com,+1-593-3933
+CUST-3085,2023-04-03,  Basic  ,248.51,50.0,USA,222.0,4,1,user_455@example.com,+1-368-8830
+CUST-9244,2023-01-22,  enterprise  ,150.53,25.0,Armenia,234.0,10,TRUE,user_456@example.com,+1-888-7300
+CUST-6487,2022-05-23,  Basic  ,,31.0,United States,332.0,10,1,,+1-539-7735
+CUST-2034,2022-02-25,,,35.0,,342.0,14,No,user_458@example.com,+1-963-7219
+CUST-1222,2022-02-21,  Ent-1  ,129.56,52.0,UK,68.0,10,No,user_459@example.com,+1-149-2745
+CUST-6625,2022-11-04,,48.0,32.0,U.K.,24.0,0,FALSE,user_460@example.com,+1-756-4087
+CUST-1717,2022-04-19,  basic  ,339.77,63.0,Armenia,342.0,5,FALSE,user_461@example.com,+1-683-5564
+CUST-2863,2022-06-04,,470.66,21.0,UK,127.0,10,1,user_462@example.com,+1-539-3985
+CUST-5833,2022-03-09,  basic  ,160.8,,United States,364.0,13,FALSE,user_463@example.com,+1-921-1751
+CUST-8120,2022-08-11,,57.26,,U.K.,156.0,14,Yes,user_464@example.com,+1-434-9593
+CUST-7346,2023-04-07,  Basic  ,225.27,18.0,U.K.,298.0,0,0,,+1-311-3779
+CUST-5638,2023-03-27,  enterprise  ,325.35,49.0,U.K.,31.0,19,0,user_466@example.com,+1-867-7800
+CUST-4016,2023-03-18,  Ent-1  ,,47.0,United States,,16,Yes,user_467@example.com,+1-906-7424
+CUST-7816,2022-07-14,  PRO  ,146.55,72.0,Armenia,,17,Yes,user_468@example.com,+1-400-3459
+CUST-7605,2022-04-24,,415.5,57.0,US,34.0,2,FALSE,user_469@example.com,+1-998-159
+CUST-9099,2022-01-04,  basic  ,365.86,24.0,UK,152.0,7,1,user_470@example.com,+1-160-6293
+CUST-3461,2022-04-10,  Ent-1  ,139.3,21.0,United States,296.0,2,No,,+1-215-7803
+CUST-9769,2022-04-06,  Basic  ,308.22,,United States,231.0,4,FALSE,,+1-446-3285
+CUST-3952,2023-03-16,  Basic  ,169.16,74.0,U.K.,217.0,13,Yes,user_473@example.com,+1-164-5814
+CUST-3662,2022-04-19,  Ent-1  ,297.37,70.0,United States,,13,Yes,user_474@example.com,+1-698-7188
+CUST-6213,2023-02-07,  Basic  ,,31.0,ARM,,13,No,user_475@example.com,+1-795-3832
+CUST-9802,2022-05-29,,352.83,74.0,ARM,251.0,3,Yes,user_476@example.com,+1-386-6492
+CUST-6074,2023-03-29,  PRO  ,379.37,69.0,Armenia,,2,1,,+1-257-7431
+CUST-7866,2023-02-06,  basic  ,67.14,73.0,ARM,,5,1,user_478@example.com,+1-815-4855
+CUST-2725,2023-04-27,  basic  ,305.26,68.0,U.K.,,3,No,user_479@example.com,+1-735-497
+CUST-6921,2022-05-27,  enterprise  ,422.84,35.0,US,46.0,9,1,user_480@example.com,+1-236-3877
+CUST-6627,2022-09-05,,122.73,24.0,ARM,337.0,14,1,user_481@example.com,+1-373-8035
+CUST-9773,2023-04-15,,183.38,24.0,Armenia,199.0,17,TRUE,user_482@example.com,+1-895-7193
+CUST-5119,2022-11-01,  Basic  ,,71.0,Armenia,358.0,2,No,user_483@example.com,+1-543-5631
+CUST-4019,2022-03-18,  enterprise  ,364.87,63.0,,365.0,14,1,user_484@example.com,+1-415-3836
+CUST-7659,2022-07-03,,,19.0,USA,322.0,17,TRUE,user_485@example.com,+1-580-6504
+CUST-7683,2022-01-17,  Ent-1  ,236.29,,UK,139.0,15,1,user_486@example.com,+1-628-8087
+CUST-6300,2022-08-20,  basic  ,361.47,54.0,Armenia,83.0,19,0,user_487@example.com,+1-554-342
+CUST-6168,2022-04-09,,370.23,50.0,UK,113.0,2,FALSE,user_488@example.com,+1-828-2548
+CUST-7950,2022-08-21,  Ent-1  ,255.2,20.0,ARM,215.0,11,FALSE,user_489@example.com,+1-133-1577
+CUST-1580,2022-12-26,  enterprise  ,204.57,25.0,USA,105.0,15,FALSE,user_490@example.com,+1-967-8478
+CUST-3119,2023-05-08,  Basic  ,,,,,8,No,user_491@example.com,+1-417-2142
+CUST-5504,2022-03-27,  PRO  ,102.86,73.0,,200.0,9,FALSE,,+1-851-3661
+CUST-4568,2022-04-28,  enterprise  ,223.32,39.0,ARM,25.0,11,0,user_493@example.com,+1-160-9476
+CUST-3157,2022-04-18,  Ent-1  ,306.81,52.0,UK,247.0,16,Yes,,+1-757-8635
+CUST-5217,2022-11-23,  enterprise  ,72.25,63.0,U.K.,204.0,18,0,user_495@example.com,+1-886-5359
+CUST-3195,2022-03-17,  Basic  ,444.66,61.0,U.K.,193.0,3,TRUE,user_496@example.com,+1-151-5201
+CUST-8768,2023-02-24,  basic  ,,20.0,ARM,146.0,11,No,user_497@example.com,+1-333-6679
+CUST-5006,2023-03-05,  basic  ,183.89,68.0,United States,175.0,13,Yes,user_498@example.com,+1-991-3473
+CUST-5786,2023-04-10,  PRO  ,260.33,49.0,,22.0,6,Yes,user_499@example.com,+1-983-3953
+CUST-5161,2023-04-06,  enterprise  ,135.35,34.0,United States,30.0,14,No,user_500@example.com,+1-490-4313
+CUST-7863,2023-01-13,  enterprise  ,258.9,51.0,U.K.,75.0,13,TRUE,user_501@example.com,+1-676-1807
+CUST-9364,2023-03-29,  Basic  ,417.9,70.0,ARM,114.0,16,0,user_502@example.com,+1-540-4641
+CUST-7319,2023-05-12,  enterprise  ,489.16,,United States,32.0,15,No,user_503@example.com,+1-206-2062
+CUST-4672,2022-02-05,  PRO  ,199.68,65.0,,139.0,19,0,user_504@example.com,+1-163-3095
+CUST-5259,2022-05-26,  basic  ,314.67,67.0,U.K.,242.0,5,TRUE,user_505@example.com,+1-987-2656
+CUST-4493,2022-07-08,,421.54,55.0,United States,,1,0,user_506@example.com,+1-700-6543
+CUST-3960,2022-05-26,  basic  ,88.29,75.0,Armenia,57.0,12,No,user_507@example.com,+1-181-616
+CUST-6685,2022-01-25,  enterprise  ,483.44,,ARM,54.0,12,Yes,user_508@example.com,+1-462-7477
+CUST-6807,2022-09-14,,182.61,23.0,UK,229.0,15,0,user_509@example.com,+1-586-3777
+CUST-6918,2023-04-01,  PRO  ,379.69,41.0,Armenia,245.0,5,No,user_510@example.com,+1-135-5356
+CUST-2759,2022-06-28,  Basic  ,210.33,60.0,Armenia,193.0,14,No,user_511@example.com,+1-742-2892
+CUST-1829,2023-03-09,  enterprise  ,136.58,30.0,United States,173.0,20,1,,+1-780-4255
+CUST-9789,2023-02-17,  PRO  ,99.24,69.0,United States,6.0,16,1,user_513@example.com,+1-861-9876
+CUST-6330,2023-01-14,  PRO  ,303.45,75.0,US,12.0,17,0,user_514@example.com,+1-673-9295
+CUST-9417,2023-03-11,  basic  ,50.1,59.0,US,,11,TRUE,user_515@example.com,+1-616-2909
+CUST-2778,2023-03-17,  PRO  ,279.91,26.0,USA,111.0,11,FALSE,user_516@example.com,+1-157-2859
+CUST-4090,2022-07-28,  PRO  ,46.87,28.0,US,319.0,6,FALSE,user_517@example.com,+1-767-7516
+CUST-8391,2022-02-25,  PRO  ,476.0,56.0,U.K.,142.0,6,TRUE,,+1-660-5920
+CUST-1664,2022-03-16,  enterprise  ,45.92,67.0,U.K.,108.0,20,TRUE,user_519@example.com,+1-536-9751
+CUST-2679,2023-04-16,  Basic  ,428.91,53.0,ARM,345.0,7,FALSE,user_520@example.com,+1-139-1332
+CUST-6975,2022-02-07,  enterprise  ,156.14,46.0,Armenia,224.0,17,1,user_521@example.com,+1-574-7771
+CUST-7698,2022-02-19,  basic  ,,26.0,U.K.,78.0,17,No,,+1-456-6312
+CUST-8689,2023-02-26,  basic  ,43.27,53.0,USA,203.0,6,1,user_523@example.com,+1-494-6607
+CUST-8828,2022-08-01,  PRO  ,180.26,32.0,USA,,0,Yes,user_524@example.com,+1-864-2019
+CUST-1711,2023-01-13,  enterprise  ,123.22,24.0,US,86.0,13,0,,+1-850-795
+CUST-5697,2022-12-26,  Basic  ,414.32,61.0,,356.0,11,1,user_526@example.com,+1-270-6061
+CUST-4937,2022-08-23,  enterprise  ,177.43,40.0,UK,19.0,2,1,user_527@example.com,+1-713-3957
+CUST-3513,2023-04-16,  Ent-1  ,216.81,55.0,United States,335.0,20,1,user_528@example.com,+1-850-8423
+CUST-1163,2022-10-01,  Ent-1  ,54.84,31.0,United States,57.0,16,Yes,,+1-402-8113
+CUST-6394,2022-10-19,  PRO  ,22.9,44.0,ARM,207.0,9,0,user_530@example.com,+1-676-9849
+CUST-5392,2022-06-21,  enterprise  ,297.56,71.0,United States,80.0,4,TRUE,,+1-361-5920
+CUST-7573,2023-04-24,  basic  ,98.08,43.0,USA,,9,TRUE,user_532@example.com,+1-634-401
+CUST-9321,2022-05-28,  Ent-1  ,251.7,72.0,UK,,3,TRUE,user_533@example.com,+1-188-4319
+CUST-6007,2022-05-23,  Ent-1  ,108.9,40.0,Armenia,89.0,5,Yes,user_534@example.com,+1-942-9995
+CUST-7310,2022-06-01,  Basic  ,43.78,33.0,,,12,FALSE,user_535@example.com,+1-122-1355
+CUST-9287,2022-08-16,  Basic  ,272.89,62.0,,32.0,6,0,user_536@example.com,+1-378-1616
+CUST-1785,2022-05-03,  Ent-1  ,188.19,22.0,,253.0,6,Yes,user_537@example.com,+1-125-3541
+CUST-1661,2022-07-29,  enterprise  ,491.47,68.0,UK,363.0,1,1,user_538@example.com,+1-165-9700
+CUST-6586,2022-02-13,,270.57,,UK,148.0,11,Yes,user_539@example.com,+1-620-7741
+CUST-7743,2022-12-14,  enterprise  ,168.25,,United States,,11,Yes,user_540@example.com,+1-596-1318
+CUST-9412,2023-02-24,,361.83,72.0,UK,88.0,6,0,user_541@example.com,+1-912-7008
+CUST-5236,2022-01-31,,353.94,57.0,U.K.,249.0,4,TRUE,user_542@example.com,+1-227-8992
+CUST-3268,2023-01-25,  PRO  ,486.1,42.0,US,,10,0,user_543@example.com,+1-607-1453
+CUST-9303,2023-05-05,  Ent-1  ,423.38,,UK,246.0,12,0,user_544@example.com,+1-277-2148
+CUST-9773,2022-04-05,  PRO  ,190.75,60.0,,33.0,13,FALSE,,+1-234-617
+CUST-3916,2022-12-11,  enterprise  ,446.47,,US,139.0,19,0,user_546@example.com,+1-682-1053
+CUST-9593,2022-08-07,  Basic  ,321.62,30.0,USA,330.0,0,FALSE,user_547@example.com,+1-985-4378
+CUST-7368,2022-10-10,  enterprise  ,461.55,52.0,U.K.,162.0,14,1,user_548@example.com,+1-674-7019
+CUST-1004,2023-02-09,  Basic  ,18.17,42.0,USA,197.0,15,TRUE,user_549@example.com,+1-549-1142
+CUST-2601,2022-03-03,  Ent-1  ,162.1,60.0,US,22.0,16,FALSE,user_550@example.com,+1-676-8396
+CUST-8610,2022-05-25,  PRO  ,,47.0,UK,136.0,10,FALSE,user_551@example.com,+1-614-9919
+CUST-3821,2022-08-05,  Ent-1  ,,62.0,ARM,102.0,13,1,user_552@example.com,+1-865-1954
+CUST-2191,2022-07-08,  enterprise  ,89.98,36.0,ARM,112.0,5,No,user_553@example.com,+1-640-7759
+CUST-8351,2022-10-30,  Ent-1  ,280.23,30.0,United States,223.0,12,0,user_554@example.com,+1-575-8867
+CUST-5776,2022-06-09,  Ent-1  ,135.07,66.0,U.K.,259.0,2,No,user_555@example.com,+1-290-1029
+CUST-1200,2023-04-26,  enterprise  ,300.48,28.0,United States,,9,No,user_556@example.com,+1-347-4599
+CUST-2645,2022-05-30,  basic  ,,48.0,USA,294.0,17,0,user_557@example.com,+1-560-6626
+CUST-6849,2022-11-14,,319.51,,,285.0,12,0,user_558@example.com,+1-512-9185
+CUST-9462,2023-05-02,  PRO  ,240.34,,UK,160.0,9,Yes,user_559@example.com,+1-370-1534
+CUST-3092,2023-03-21,  PRO  ,181.39,34.0,USA,45.0,18,No,user_560@example.com,+1-407-4860
+CUST-9146,2023-01-23,,249.43,35.0,USA,184.0,14,No,user_561@example.com,+1-356-725
+CUST-9044,2022-10-09,  basic  ,141.45,44.0,ARM,198.0,17,No,user_562@example.com,+1-727-5641
+CUST-5513,2022-03-21,  enterprise  ,95.04,58.0,ARM,157.0,19,TRUE,user_563@example.com,+1-502-1301
+CUST-2886,2022-05-31,,209.94,51.0,USA,209.0,20,0,user_564@example.com,+1-244-8290
+CUST-6359,2022-11-14,  enterprise  ,373.67,31.0,,68.0,16,Yes,user_565@example.com,+1-967-3392
+CUST-4143,2022-10-17,  Basic  ,381.06,28.0,UK,73.0,10,TRUE,user_566@example.com,+1-679-5079
+CUST-8159,2022-06-23,  Basic  ,411.81,,USA,148.0,1,1,user_567@example.com,+1-906-3887
+CUST-2046,2022-04-18,  PRO  ,,40.0,U.K.,322.0,13,No,user_568@example.com,+1-674-2185
+CUST-6674,2022-12-17,  basic  ,29.0,53.0,U.K.,,6,TRUE,,+1-196-8668
+CUST-4634,2023-04-06,  PRO  ,,21.0,UK,69.0,14,Yes,user_570@example.com,+1-406-9813
+CUST-8665,2023-05-12,  enterprise  ,290.8,19.0,Armenia,282.0,15,TRUE,user_571@example.com,+1-226-6391
+CUST-1227,2022-01-24,  basic  ,315.38,33.0,U.K.,,20,TRUE,user_572@example.com,+1-946-6738
+CUST-4720,2022-05-11,  basic  ,198.52,66.0,UK,58.0,16,Yes,user_573@example.com,+1-197-6241
+CUST-8413,2022-04-07,  PRO  ,62.61,40.0,UK,32.0,18,0,user_574@example.com,+1-541-358
+CUST-3735,2022-05-22,  Ent-1  ,319.09,53.0,U.K.,47.0,8,No,user_575@example.com,+1-957-9654
+CUST-4722,2022-06-25,,414.09,35.0,U.K.,230.0,8,Yes,user_576@example.com,+1-146-9744
+CUST-3657,2022-02-07,  enterprise  ,59.64,,USA,127.0,2,TRUE,user_577@example.com,+1-975-8444
+CUST-5419,2022-07-31,  PRO  ,263.5,32.0,USA,170.0,9,0,user_578@example.com,+1-855-3061
+CUST-5009,2023-03-26,  enterprise  ,493.6,56.0,USA,197.0,12,0,user_579@example.com,+1-401-5110
+CUST-4838,2023-04-03,  Ent-1  ,148.66,70.0,USA,288.0,11,TRUE,user_580@example.com,+1-620-4741
+CUST-1015,2022-08-04,,256.59,66.0,USA,180.0,12,0,user_581@example.com,+1-162-3458
+CUST-4469,2022-03-11,  Basic  ,,68.0,,203.0,10,0,user_582@example.com,+1-420-5796
+CUST-9655,2022-10-10,  Ent-1  ,238.18,52.0,ARM,353.0,17,Yes,user_583@example.com,+1-950-6820
+CUST-3950,2023-02-01,  Basic  ,401.18,38.0,,231.0,15,TRUE,user_584@example.com,+1-680-2353
+CUST-6435,2022-03-01,  enterprise  ,308.15,33.0,U.K.,242.0,10,TRUE,user_585@example.com,+1-606-1216
+CUST-2514,2022-04-23,  Basic  ,159.52,40.0,,241.0,15,0,user_586@example.com,+1-213-8930
+CUST-2126,2022-05-19,  basic  ,208.96,53.0,,108.0,17,FALSE,user_587@example.com,+1-651-3407
+CUST-8682,2022-06-20,,274.13,45.0,U.K.,16.0,9,Yes,user_588@example.com,+1-332-1789
+CUST-5985,2022-02-19,  Basic  ,74.24,53.0,,342.0,8,No,,+1-895-1044
+CUST-6338,2022-11-08,,410.28,53.0,United States,200.0,17,0,user_590@example.com,+1-773-3154
+CUST-6302,2022-11-04,  PRO  ,435.27,58.0,Armenia,20.0,12,FALSE,user_591@example.com,+1-554-1243
+CUST-7689,2023-04-09,  Ent-1  ,393.42,69.0,US,272.0,17,1,user_592@example.com,+1-165-5313
+CUST-3433,2023-04-10,  enterprise  ,109.36,62.0,U.K.,244.0,19,TRUE,user_593@example.com,+1-674-4986
+CUST-1339,2022-04-02,  basic  ,44.27,31.0,ARM,55.0,2,1,user_594@example.com,+1-555-6125
+CUST-3450,2023-04-11,  Ent-1  ,99.06,,UK,234.0,15,Yes,user_595@example.com,+1-794-896
+CUST-7078,2022-08-20,  Ent-1  ,350.47,52.0,U.K.,317.0,13,FALSE,user_596@example.com,+1-832-8151
+CUST-7055,2023-01-16,,489.46,51.0,U.K.,236.0,10,1,user_597@example.com,+1-633-2144
+CUST-6533,2022-07-30,  enterprise  ,,23.0,ARM,,8,1,user_598@example.com,+1-740-3347
+CUST-5525,2022-04-17,  PRO  ,375.7,23.0,US,108.0,8,Yes,user_599@example.com,+1-830-5758
+CUST-1593,2022-03-26,  basic  ,230.74,,,56.0,6,FALSE,user_600@example.com,+1-655-5879
+CUST-5383,2023-01-20,  basic  ,276.78,29.0,U.K.,160.0,16,0,user_601@example.com,+1-622-3353
+CUST-9879,2023-04-25,,117.2,46.0,USA,342.0,16,1,user_602@example.com,+1-201-9355
+CUST-2033,2022-12-14,  PRO  ,,31.0,U.K.,264.0,8,TRUE,user_603@example.com,+1-351-2851
+CUST-4718,2022-04-28,  Ent-1  ,471.88,55.0,US,330.0,18,No,user_604@example.com,+1-630-1889
+CUST-2500,2022-10-04,  basic  ,139.47,,U.K.,122.0,1,No,user_605@example.com,+1-474-9199
+CUST-5662,2023-04-23,  enterprise  ,194.12,70.0,UK,9.0,6,No,user_606@example.com,+1-341-2916
+CUST-9196,2022-07-05,  Ent-1  ,400.5,43.0,United States,171.0,15,1,user_607@example.com,+1-743-8245
+CUST-3198,2022-11-25,  PRO  ,435.58,29.0,USA,340.0,19,0,user_608@example.com,+1-105-5421
+CUST-3009,2022-12-12,  Ent-1  ,147.48,20.0,USA,,5,No,user_609@example.com,+1-569-9825
+CUST-3356,2023-04-14,  enterprise  ,262.72,29.0,,92.0,20,1,user_610@example.com,+1-491-5702
+CUST-2125,2022-08-23,  Ent-1  ,370.56,44.0,United States,60.0,5,No,user_611@example.com,+1-406-8540
+CUST-1936,2023-01-17,  basic  ,240.97,70.0,U.K.,249.0,19,0,user_612@example.com,+1-169-6134
+CUST-3776,2022-08-08,  Basic  ,191.9,64.0,Armenia,145.0,16,0,user_613@example.com,+1-661-5372
+CUST-5598,2022-05-10,  basic  ,222.26,60.0,ARM,208.0,8,No,user_614@example.com,+1-361-5913
+CUST-8154,2022-07-26,  Ent-1  ,207.32,35.0,U.K.,202.0,19,1,user_615@example.com,+1-704-9308
+CUST-4734,2022-05-06,  Ent-1  ,,46.0,Armenia,25.0,15,Yes,user_616@example.com,+1-105-7208
+CUST-3736,2023-01-06,  Ent-1  ,,58.0,United States,223.0,13,FALSE,user_617@example.com,+1-248-1655
+CUST-6899,2022-06-30,  Ent-1  ,102.43,23.0,U.K.,254.0,20,No,user_618@example.com,+1-665-8705
+CUST-3293,2023-03-23,  PRO  ,160.1,56.0,US,129.0,9,1,user_619@example.com,+1-142-5225
+CUST-9548,2022-09-02,,335.73,56.0,UK,306.0,11,No,user_620@example.com,+1-329-299
+CUST-5553,2022-06-22,,473.93,47.0,ARM,304.0,16,0,user_621@example.com,+1-683-4646
+CUST-1461,2022-12-26,,409.6,57.0,UK,22.0,2,Yes,,+1-798-6484
+CUST-3152,2022-05-28,  Basic  ,434.0,22.0,U.K.,75.0,12,1,user_623@example.com,+1-233-4752
+CUST-5613,2022-05-04,  enterprise  ,17.77,53.0,U.K.,,15,1,user_624@example.com,+1-842-1157
+CUST-6892,2022-02-25,,177.86,54.0,USA,324.0,16,No,,+1-500-5791
+CUST-8420,2022-12-12,  basic  ,473.9,22.0,U.K.,183.0,19,1,,+1-721-5111
+CUST-8355,2022-08-21,  Basic  ,477.39,28.0,,45.0,11,Yes,user_627@example.com,+1-267-951
+CUST-6610,2023-04-09,,157.6,19.0,USA,135.0,2,Yes,user_628@example.com,+1-693-3258
+CUST-3187,2022-08-12,  Ent-1  ,482.89,47.0,U.K.,209.0,10,0,user_629@example.com,+1-584-4145
+CUST-9504,2022-10-28,  basic  ,106.57,49.0,ARM,333.0,14,Yes,user_630@example.com,+1-700-6764
+CUST-5146,2022-08-26,,162.74,46.0,ARM,162.0,6,FALSE,user_631@example.com,+1-962-531
+CUST-7840,2022-05-04,  PRO  ,305.17,41.0,ARM,201.0,14,No,user_632@example.com,+1-691-7815
+CUST-1253,2023-04-06,,465.08,64.0,United States,299.0,2,0,user_633@example.com,+1-306-7678
+CUST-8150,2022-12-01,  Ent-1  ,233.97,41.0,ARM,162.0,12,0,user_634@example.com,+1-950-9395
+CUST-7490,2022-02-25,  basic  ,80.84,74.0,ARM,87.0,10,1,user_635@example.com,+1-230-1614
+CUST-5391,2022-03-17,  enterprise  ,,25.0,USA,122.0,11,0,user_636@example.com,+1-576-4051
+CUST-8260,2022-07-12,  Ent-1  ,69.85,,US,314.0,5,Yes,user_637@example.com,+1-172-3605
+CUST-2481,2022-09-10,  Basic  ,396.74,,,165.0,6,FALSE,user_638@example.com,+1-445-9065
+CUST-3282,2022-08-20,,441.4,54.0,US,291.0,0,FALSE,user_639@example.com,+1-652-7771
+CUST-9711,2022-04-15,  Ent-1  ,308.33,58.0,United States,78.0,0,No,user_640@example.com,+1-784-3596
+CUST-3208,2023-04-05,  Basic  ,332.52,60.0,United States,165.0,6,TRUE,user_641@example.com,+1-609-3785
+CUST-2726,2022-09-21,,194.2,47.0,USA,139.0,10,No,user_642@example.com,+1-205-2430
+CUST-4188,2022-11-10,  Basic  ,161.04,31.0,US,330.0,8,Yes,,+1-675-1216
+CUST-3198,2022-06-09,  basic  ,479.01,73.0,USA,190.0,4,TRUE,user_644@example.com,+1-895-9893
+CUST-7805,2022-10-01,  Basic  ,272.03,19.0,U.K.,12.0,8,No,user_645@example.com,+1-858-3765
+CUST-1914,2023-01-12,,140.82,51.0,Armenia,312.0,15,1,user_646@example.com,+1-483-3626
+CUST-4649,2022-03-26,  Basic  ,194.0,24.0,ARM,288.0,16,FALSE,user_647@example.com,+1-666-5681
+CUST-9431,2022-10-26,  basic  ,374.13,60.0,UK,235.0,14,1,user_648@example.com,+1-320-6857
+CUST-7745,2022-10-05,,173.58,32.0,Armenia,56.0,3,TRUE,,+1-799-1958
+CUST-2809,2023-04-28,,,54.0,,81.0,13,FALSE,user_650@example.com,+1-723-2732
+CUST-3783,2022-07-27,  basic  ,495.03,44.0,Armenia,203.0,10,TRUE,,+1-132-3142
+CUST-7140,2022-10-29,  Basic  ,369.04,64.0,UK,180.0,18,Yes,user_652@example.com,+1-816-4503
+CUST-4855,2022-09-08,,,74.0,US,184.0,2,0,user_653@example.com,+1-806-1724
+CUST-2336,2022-01-21,  basic  ,306.78,23.0,,313.0,1,TRUE,user_654@example.com,+1-722-4257
+CUST-4780,2022-07-24,  PRO  ,140.26,73.0,United States,167.0,17,1,user_655@example.com,+1-823-8743
+CUST-2979,2023-04-06,  Basic  ,33.34,45.0,USA,166.0,3,TRUE,user_656@example.com,+1-569-7878
+CUST-9317,2022-08-10,  PRO  ,255.36,66.0,US,243.0,7,0,user_657@example.com,+1-871-9847
+CUST-6936,2022-06-26,  PRO  ,362.95,,United States,31.0,14,TRUE,user_658@example.com,+1-461-6771
+CUST-3162,2022-08-23,  basic  ,396.08,31.0,ARM,202.0,1,FALSE,user_659@example.com,+1-104-4369
+CUST-9496,2022-04-22,  basic  ,360.14,37.0,US,212.0,20,FALSE,user_660@example.com,+1-523-7994
+CUST-4262,2022-11-22,  enterprise  ,27.24,58.0,ARM,281.0,3,1,user_661@example.com,+1-799-2777
+CUST-4590,2022-05-15,,422.06,74.0,USA,279.0,8,FALSE,user_662@example.com,+1-264-4551
+CUST-2559,2022-03-19,  basic  ,375.7,60.0,Armenia,266.0,17,FALSE,,+1-549-317
+CUST-1647,2022-06-19,  PRO  ,331.32,18.0,US,354.0,16,No,user_664@example.com,+1-548-5206
+CUST-2931,2022-01-07,  PRO  ,391.9,19.0,United States,341.0,5,0,user_665@example.com,+1-604-8716
+CUST-8548,2022-11-22,,209.92,27.0,USA,64.0,10,0,user_666@example.com,+1-969-3695
+CUST-3581,2023-02-26,  Basic  ,200.15,69.0,US,226.0,1,0,user_667@example.com,+1-528-7361
+CUST-7932,2022-11-19,,412.39,23.0,UK,149.0,19,1,user_668@example.com,+1-513-927
+CUST-8015,2022-10-25,  PRO  ,240.81,32.0,U.K.,111.0,6,No,user_669@example.com,+1-721-7475
+CUST-8281,2022-08-27,  enterprise  ,,40.0,United States,137.0,19,0,user_670@example.com,+1-983-5796
+CUST-8686,2022-09-03,  Ent-1  ,47.88,,Armenia,94.0,12,FALSE,user_671@example.com,+1-104-9639
+CUST-2720,2022-09-06,  Ent-1  ,412.61,44.0,US,192.0,5,1,user_672@example.com,+1-446-4542
+CUST-4389,2023-05-11,  Basic  ,163.31,61.0,,333.0,12,0,user_673@example.com,+1-751-4530
+CUST-5242,2023-03-17,  PRO  ,278.76,44.0,USA,275.0,17,0,user_674@example.com,+1-119-4559
+CUST-7448,2022-03-14,  PRO  ,,44.0,UK,303.0,18,FALSE,user_675@example.com,+1-229-3970
+CUST-8192,2022-08-19,  PRO  ,252.5,50.0,,50.0,6,0,,+1-855-3012
+CUST-1573,2023-01-13,,,25.0,Armenia,46.0,8,FALSE,user_677@example.com,+1-307-1736
+CUST-8408,2023-05-03,  PRO  ,337.06,28.0,UK,132.0,13,No,user_678@example.com,+1-183-2940
+CUST-7996,2022-08-29,  Basic  ,460.73,,US,112.0,20,TRUE,user_679@example.com,+1-928-5395
+CUST-6253,2023-02-22,  PRO  ,45.09,,ARM,252.0,16,0,user_680@example.com,+1-113-9312
+CUST-3800,2023-04-07,  basic  ,57.66,,ARM,171.0,9,0,user_681@example.com,+1-140-8168
+CUST-2509,2022-05-02,  enterprise  ,76.29,46.0,,113.0,9,FALSE,user_682@example.com,+1-964-3628
+CUST-1029,2022-11-05,  enterprise  ,225.72,59.0,,262.0,20,No,user_683@example.com,+1-141-1797
+CUST-8892,2023-03-28,  PRO  ,24.15,73.0,United States,147.0,12,0,user_684@example.com,+1-238-5911
+CUST-4040,2023-03-26,  Ent-1  ,394.6,20.0,U.K.,333.0,20,0,user_685@example.com,+1-994-4097
+CUST-2807,2022-11-06,  Ent-1  ,134.57,54.0,UK,180.0,17,0,user_686@example.com,+1-100-7671
+CUST-9272,2023-02-27,,42.7,30.0,United States,58.0,2,1,user_687@example.com,+1-449-2476
+CUST-8251,2022-05-04,  enterprise  ,390.95,69.0,US,38.0,17,0,user_688@example.com,+1-353-8579
+CUST-8306,2023-03-09,  PRO  ,,75.0,United States,122.0,2,1,,+1-634-2536
+CUST-2284,2022-03-09,  enterprise  ,381.87,20.0,,,0,Yes,,+1-435-2789
+CUST-2304,2023-05-14,,351.3,40.0,USA,348.0,11,0,,+1-943-5483
+CUST-1688,2023-05-11,,356.88,71.0,,351.0,2,1,user_692@example.com,+1-632-3529
+CUST-8321,2022-09-08,  basic  ,275.61,61.0,ARM,88.0,8,Yes,,+1-380-8471
+CUST-4622,2022-08-22,  basic  ,326.6,25.0,U.K.,75.0,7,No,user_694@example.com,+1-954-1588
+CUST-1255,2023-03-26,  Basic  ,398.88,28.0,ARM,5.0,9,FALSE,user_695@example.com,+1-763-2855
+CUST-1619,2022-02-01,,107.76,45.0,United States,23.0,7,FALSE,user_696@example.com,+1-808-6323
+CUST-6249,2022-07-27,  basic  ,,57.0,,23.0,0,No,user_697@example.com,+1-571-667
+CUST-2082,2023-04-21,  enterprise  ,321.02,20.0,U.K.,107.0,12,TRUE,user_698@example.com,+1-889-8566
+CUST-9251,2022-05-06,  Basic  ,499.14,65.0,U.K.,174.0,15,1,user_699@example.com,+1-681-529
+CUST-7647,2022-02-06,  Basic  ,254.8,75.0,ARM,215.0,12,TRUE,user_700@example.com,+1-248-3323
+CUST-4857,2022-10-07,  PRO  ,77.05,28.0,United States,25.0,2,1,user_701@example.com,+1-652-566
+CUST-9278,2022-11-06,  Basic  ,231.78,38.0,U.K.,119.0,4,Yes,user_702@example.com,+1-143-5589
+CUST-3250,2022-10-31,  PRO  ,,20.0,US,88.0,7,TRUE,user_703@example.com,+1-572-5081
+CUST-5993,2022-08-30,  PRO  ,243.46,25.0,USA,259.0,15,FALSE,user_704@example.com,+1-933-586
+CUST-3830,2022-10-22,  basic  ,128.57,47.0,US,172.0,11,0,user_705@example.com,+1-922-7010
+CUST-8933,2022-02-13,  enterprise  ,332.25,74.0,USA,180.0,8,FALSE,,+1-890-8274
+CUST-3900,2022-07-20,  Ent-1  ,416.34,41.0,U.K.,274.0,14,TRUE,user_707@example.com,+1-405-1481
+CUST-2382,2022-07-13,  enterprise  ,72.44,32.0,UK,152.0,12,0,user_708@example.com,+1-923-2928
+CUST-7879,2022-01-01,  Ent-1  ,122.35,30.0,Armenia,220.0,14,Yes,,+1-577-7619
+CUST-1629,2023-03-01,,18.34,,,252.0,20,No,user_710@example.com,+1-887-7211
+CUST-5168,2022-07-05,  enterprise  ,441.22,39.0,United States,300.0,1,TRUE,user_711@example.com,+1-924-7565
+CUST-1167,2023-04-27,  Ent-1  ,397.76,,US,61.0,2,0,user_712@example.com,+1-627-4858
+CUST-9471,2023-02-01,,111.66,36.0,U.K.,221.0,16,TRUE,user_713@example.com,+1-591-5778
+CUST-7712,2023-03-18,  PRO  ,,69.0,,354.0,15,FALSE,,+1-694-5905
+CUST-7423,2022-09-20,,44.86,52.0,USA,72.0,20,0,user_715@example.com,+1-162-2692
+CUST-6741,2022-01-10,,367.99,39.0,US,126.0,20,0,user_716@example.com,+1-182-9612
+CUST-3916,2023-01-02,  enterprise  ,303.42,33.0,,,8,TRUE,user_717@example.com,+1-959-6978
+CUST-4218,2023-04-16,  enterprise  ,412.94,70.0,ARM,110.0,5,0,user_718@example.com,+1-368-4122
+CUST-9654,2022-04-21,  enterprise  ,331.55,47.0,US,241.0,10,FALSE,user_719@example.com,+1-460-1627
+CUST-2753,2023-04-19,,161.71,29.0,,247.0,12,No,user_720@example.com,+1-467-9425
+CUST-9777,2023-02-06,  enterprise  ,300.13,20.0,United States,,20,1,user_721@example.com,+1-143-134
+CUST-5862,2022-12-02,  Basic  ,147.26,65.0,US,314.0,6,FALSE,user_722@example.com,+1-895-3873
+CUST-2266,2022-04-05,  basic  ,194.33,54.0,Armenia,215.0,1,0,user_723@example.com,+1-447-1192
+CUST-4720,2022-01-02,,445.72,21.0,Armenia,318.0,9,Yes,user_724@example.com,+1-284-3528
+CUST-4417,2022-07-31,,130.06,32.0,United States,191.0,0,TRUE,,+1-780-1401
+CUST-3913,2022-12-10,  PRO  ,322.75,61.0,Armenia,250.0,15,0,user_726@example.com,+1-639-1091
+CUST-1849,2023-04-14,  enterprise  ,65.29,,U.K.,,9,0,user_727@example.com,+1-492-3151
+CUST-5821,2022-06-18,  Ent-1  ,342.33,63.0,USA,194.0,17,1,user_728@example.com,+1-929-7169
+CUST-7220,2022-11-16,  enterprise  ,87.28,30.0,Armenia,64.0,10,TRUE,user_729@example.com,+1-496-6198
+CUST-5556,2022-10-22,  enterprise  ,,27.0,,61.0,20,FALSE,user_730@example.com,+1-616-3774
+CUST-3744,2022-01-17,  PRO  ,230.57,,,22.0,16,FALSE,user_731@example.com,+1-988-2682
+CUST-7579,2022-05-29,,,54.0,,132.0,9,1,user_732@example.com,+1-843-7604
+CUST-2433,2022-08-26,  Basic  ,389.98,34.0,United States,69.0,13,FALSE,user_733@example.com,+1-398-3096
+CUST-6065,2022-01-09,  Basic  ,114.65,74.0,USA,77.0,11,1,user_734@example.com,+1-298-2858
+CUST-6020,2022-03-02,  enterprise  ,11.28,52.0,,162.0,4,FALSE,user_735@example.com,+1-103-2909
+CUST-7090,2022-01-29,  basic  ,266.21,18.0,US,106.0,1,No,user_736@example.com,+1-819-2268
+CUST-1062,2022-01-17,  Ent-1  ,448.31,22.0,UK,13.0,2,1,user_737@example.com,+1-806-4455
+CUST-7623,2023-02-12,  Basic  ,61.18,40.0,US,26.0,20,Yes,user_738@example.com,+1-125-4804
+CUST-9816,2022-09-13,,305.23,47.0,USA,276.0,19,No,user_739@example.com,+1-791-9993
+CUST-8895,2023-03-29,  Basic  ,434.05,,Armenia,88.0,13,Yes,,+1-170-3809
+CUST-9278,2023-03-10,  basic  ,381.57,22.0,Armenia,96.0,0,FALSE,user_741@example.com,+1-298-2177
+CUST-9464,2022-09-23,,172.77,69.0,Armenia,62.0,6,0,user_742@example.com,+1-866-6974
+CUST-3465,2023-02-16,  PRO  ,,48.0,U.K.,202.0,9,Yes,user_743@example.com,+1-715-8430
+CUST-4479,2022-01-19,,289.93,49.0,United States,,20,FALSE,user_744@example.com,+1-480-4997
+CUST-3058,2022-09-24,  Basic  ,64.99,24.0,US,198.0,3,0,user_745@example.com,+1-645-853
+CUST-3185,2022-06-12,  PRO  ,116.62,75.0,US,156.0,20,FALSE,user_746@example.com,+1-934-2944
+CUST-8059,2022-05-22,  basic  ,485.13,33.0,UK,19.0,16,TRUE,user_747@example.com,+1-980-6059
+CUST-3202,2022-04-05,  basic  ,197.66,40.0,ARM,263.0,15,0,user_748@example.com,+1-875-6384
+CUST-8988,2022-04-26,  enterprise  ,,33.0,U.K.,,12,0,user_749@example.com,+1-907-2821
+CUST-9941,2022-08-20,  Ent-1  ,264.2,21.0,U.K.,305.0,11,No,user_750@example.com,+1-672-5358
+CUST-7420,2022-04-09,  enterprise  ,402.71,43.0,U.K.,,11,TRUE,user_751@example.com,+1-590-3678
+CUST-8006,2022-02-22,  Ent-1  ,233.01,37.0,US,330.0,8,1,user_752@example.com,+1-210-9648
+CUST-2695,2022-04-13,  Ent-1  ,43.57,31.0,USA,134.0,13,FALSE,user_753@example.com,+1-261-5120
+CUST-4677,2022-06-05,,67.98,64.0,ARM,103.0,17,TRUE,user_754@example.com,+1-895-1714
+CUST-9216,2022-12-06,  Ent-1  ,285.95,60.0,US,349.0,15,1,user_755@example.com,+1-991-3186
+CUST-2560,2022-10-19,  PRO  ,56.37,53.0,US,56.0,0,1,user_756@example.com,+1-840-2859
+CUST-9515,2023-03-22,  PRO  ,170.77,75.0,United States,132.0,2,0,user_757@example.com,+1-755-119
+CUST-1220,2023-03-17,  Ent-1  ,378.7,29.0,Armenia,10.0,7,Yes,user_758@example.com,+1-245-5308
+CUST-2939,2022-03-26,  Ent-1  ,216.44,44.0,United States,190.0,10,Yes,user_759@example.com,+1-555-636
+CUST-1940,2022-12-15,  Ent-1  ,77.32,42.0,Armenia,312.0,16,FALSE,,+1-602-6796
+CUST-6460,2022-03-14,,287.66,50.0,United States,342.0,6,0,user_761@example.com,+1-366-9253
+CUST-4397,2022-05-25,  enterprise  ,171.91,32.0,Armenia,,16,TRUE,user_762@example.com,+1-462-870
+CUST-8728,2022-02-21,  enterprise  ,495.44,65.0,U.K.,,9,0,,+1-282-6301
+CUST-2243,2023-01-01,  Basic  ,112.26,,UK,,0,TRUE,user_764@example.com,+1-983-4885
+CUST-7105,2022-11-24,  basic  ,256.9,66.0,UK,,4,0,user_765@example.com,+1-913-9243
+CUST-3957,2022-02-02,  PRO  ,55.42,57.0,Armenia,16.0,2,1,user_766@example.com,+1-812-5760
+CUST-6058,2022-12-12,  enterprise  ,263.67,68.0,Armenia,177.0,4,FALSE,user_767@example.com,+1-438-988
+CUST-8485,2023-04-27,  Basic  ,359.36,34.0,UK,70.0,0,FALSE,user_768@example.com,+1-172-3030
+CUST-5630,2022-08-18,  PRO  ,203.73,53.0,ARM,263.0,11,Yes,user_769@example.com,+1-332-3082
+CUST-4357,2023-03-11,  PRO  ,218.57,68.0,US,356.0,2,No,user_770@example.com,+1-225-753
+CUST-1998,2022-11-16,  enterprise  ,300.08,75.0,UK,134.0,12,FALSE,user_771@example.com,+1-265-2901
+CUST-6630,2023-04-26,  Ent-1  ,30.96,41.0,United States,27.0,19,FALSE,user_772@example.com,+1-442-189
+CUST-1989,2022-10-29,  basic  ,40.32,,ARM,,18,No,user_773@example.com,+1-835-4393
+CUST-3142,2022-02-01,  enterprise  ,398.68,72.0,,316.0,1,TRUE,user_774@example.com,+1-328-4054
+CUST-5405,2023-03-11,  PRO  ,142.21,72.0,USA,329.0,19,1,user_775@example.com,+1-651-1446
+CUST-8177,2022-04-29,  enterprise  ,381.73,,U.K.,93.0,6,Yes,user_776@example.com,+1-505-5570
+CUST-2105,2022-05-21,  basic  ,388.62,74.0,,255.0,4,No,,+1-532-6209
+CUST-2829,2022-01-17,  enterprise  ,483.69,28.0,US,176.0,10,Yes,user_778@example.com,+1-641-1863
+CUST-8710,2022-03-25,  PRO  ,375.7,,United States,1.0,9,FALSE,user_779@example.com,+1-670-8840
+CUST-3496,2023-03-28,  enterprise  ,378.62,52.0,US,50.0,8,FALSE,,+1-719-3555
+CUST-1711,2022-06-19,  Basic  ,135.29,74.0,,108.0,16,Yes,user_781@example.com,+1-937-3294
+CUST-9835,2022-02-17,  basic  ,345.22,39.0,U.K.,357.0,3,0,user_782@example.com,+1-704-2630
+CUST-8487,2022-08-24,  Basic  ,472.08,39.0,US,92.0,12,FALSE,,+1-140-4686
+CUST-4855,2022-05-20,  basic  ,455.23,61.0,Armenia,,13,No,user_784@example.com,+1-589-5153
+CUST-9493,2022-01-07,  Ent-1  ,12.53,39.0,USA,117.0,10,No,user_785@example.com,+1-331-5691
+CUST-8935,2022-10-25,  basic  ,452.94,69.0,U.K.,195.0,18,FALSE,user_786@example.com,+1-466-6099
+CUST-1293,2023-01-15,  Basic  ,74.43,21.0,United States,198.0,5,Yes,user_787@example.com,+1-312-5631
+CUST-7145,2022-08-16,  PRO  ,46.33,37.0,,293.0,0,FALSE,user_788@example.com,+1-923-149
+CUST-8616,2022-08-05,  enterprise  ,433.63,66.0,ARM,312.0,4,No,user_789@example.com,+1-772-9918
+CUST-5489,2022-05-19,,90.04,24.0,US,192.0,14,1,user_790@example.com,+1-903-3824
+CUST-6198,2022-02-24,  Ent-1  ,310.42,73.0,ARM,363.0,15,1,user_791@example.com,+1-107-9924
+CUST-6934,2022-11-19,  Basic  ,110.39,,UK,171.0,3,Yes,user_792@example.com,+1-476-7236
+CUST-3116,2023-03-02,  Ent-1  ,442.15,19.0,USA,159.0,4,FALSE,user_793@example.com,+1-893-562
+CUST-7007,2022-07-25,  Basic  ,167.84,56.0,ARM,298.0,16,Yes,user_794@example.com,+1-508-7646
+CUST-3018,2022-06-26,  PRO  ,143.1,41.0,United States,294.0,18,No,user_795@example.com,+1-773-3913
+CUST-7757,2023-03-01,  PRO  ,31.63,48.0,U.K.,292.0,1,0,user_796@example.com,+1-823-4773
+CUST-9714,2022-12-01,  Basic  ,488.01,22.0,US,181.0,14,No,user_797@example.com,+1-713-8867
+CUST-5333,2022-09-23,  enterprise  ,328.61,20.0,,193.0,17,No,user_798@example.com,+1-658-9586
+CUST-5171,2022-12-03,  Basic  ,,43.0,US,105.0,1,No,user_799@example.com,+1-682-335
+CUST-8248,2022-11-21,  basic  ,175.02,70.0,UK,227.0,12,1,user_800@example.com,+1-252-3297
+CUST-7227,2022-07-14,  enterprise  ,425.7,,U.K.,173.0,15,1,user_801@example.com,+1-498-2381
+CUST-9957,2022-05-30,  enterprise  ,379.39,38.0,United States,300.0,6,No,,+1-339-1895
+CUST-2154,2022-06-08,  Basic  ,347.17,21.0,United States,89.0,13,FALSE,user_803@example.com,+1-986-5721
+CUST-3341,2023-01-13,  PRO  ,318.85,50.0,United States,30.0,11,0,user_804@example.com,+1-354-8778
+CUST-2194,2022-06-04,  Ent-1  ,292.04,39.0,U.K.,,14,FALSE,user_805@example.com,+1-725-8165
+CUST-1374,2022-04-08,  PRO  ,133.76,69.0,U.K.,147.0,18,TRUE,user_806@example.com,+1-216-2780
+CUST-6348,2022-09-03,  basic  ,423.88,29.0,UK,27.0,16,No,user_807@example.com,+1-553-979
+CUST-2697,2022-04-17,  Ent-1  ,285.75,29.0,U.K.,,16,Yes,,+1-491-4122
+CUST-4419,2022-03-04,  enterprise  ,393.17,49.0,Armenia,161.0,4,0,user_809@example.com,+1-171-6183
+CUST-7933,2023-02-16,  PRO  ,427.37,19.0,Armenia,49.0,11,1,user_810@example.com,+1-351-9523
+CUST-6237,2023-04-21,  Ent-1  ,290.52,,UK,282.0,11,0,user_811@example.com,+1-476-3568
+CUST-9178,2022-07-25,  basic  ,429.14,55.0,U.K.,353.0,13,No,user_812@example.com,+1-666-5308
+CUST-9730,2022-10-09,  basic  ,362.43,72.0,U.K.,154.0,11,0,user_813@example.com,+1-586-1953
+CUST-7522,2022-10-02,,308.28,24.0,U.K.,254.0,2,Yes,user_814@example.com,+1-154-1191
+CUST-9769,2022-08-19,  basic  ,244.72,31.0,United States,56.0,9,Yes,user_815@example.com,+1-813-202
+CUST-9852,2022-02-15,  enterprise  ,295.6,58.0,U.K.,,2,FALSE,user_816@example.com,+1-653-1165
+CUST-4579,2023-02-28,,420.31,39.0,UK,231.0,18,Yes,,+1-578-7420
+CUST-1723,2023-03-05,  basic  ,469.32,30.0,,235.0,15,Yes,user_818@example.com,+1-966-6217
+CUST-8554,2022-01-02,  basic  ,182.14,75.0,USA,278.0,14,No,user_819@example.com,+1-541-2877
+CUST-5950,2022-08-02,  Basic  ,179.13,59.0,United States,11.0,15,1,user_820@example.com,+1-718-8986
+CUST-4588,2022-01-10,  Ent-1  ,67.32,75.0,UK,93.0,0,TRUE,user_821@example.com,+1-482-9580
+CUST-6059,2023-05-14,  enterprise  ,92.7,51.0,U.K.,318.0,1,0,user_822@example.com,+1-875-1773
+CUST-7678,2022-07-30,  Basic  ,342.21,19.0,United States,357.0,3,TRUE,user_823@example.com,+1-895-7190
+CUST-4468,2023-04-29,  PRO  ,313.6,56.0,ARM,,6,No,user_824@example.com,+1-820-5257
+CUST-5702,2022-09-20,  enterprise  ,10.06,45.0,United States,322.0,1,TRUE,user_825@example.com,+1-978-386
+CUST-9040,2023-01-28,  enterprise  ,,21.0,US,38.0,14,FALSE,user_826@example.com,+1-592-6629
+CUST-8266,2022-08-03,  basic  ,35.76,64.0,,315.0,2,FALSE,,+1-106-6418
+CUST-3590,2022-01-07,,,59.0,UK,152.0,8,No,user_828@example.com,+1-721-6669
+CUST-9663,2022-03-18,  Ent-1  ,233.29,58.0,Armenia,60.0,3,Yes,,+1-122-6501
+CUST-5752,2022-08-17,  enterprise  ,398.3,36.0,United States,105.0,5,No,,+1-955-7053
+CUST-5332,2022-03-18,  enterprise  ,498.35,46.0,U.K.,,0,0,user_831@example.com,+1-460-4202
+CUST-9681,2022-10-10,  enterprise  ,157.7,37.0,,64.0,14,1,user_832@example.com,+1-272-8473
+CUST-5233,2022-12-08,  Basic  ,,59.0,US,124.0,18,1,user_833@example.com,+1-526-8875
+CUST-6289,2022-03-28,  basic  ,,43.0,US,185.0,3,FALSE,user_834@example.com,+1-273-6580
+CUST-5344,2023-02-11,  basic  ,232.49,41.0,USA,359.0,12,FALSE,user_835@example.com,+1-642-5894
+CUST-1054,2022-01-01,  Basic  ,17.21,,Armenia,233.0,20,TRUE,user_836@example.com,+1-721-6465
+CUST-9675,2022-04-08,  PRO  ,,47.0,US,306.0,10,Yes,user_837@example.com,+1-816-4727
+CUST-2864,2022-10-31,  basic  ,353.54,28.0,USA,16.0,20,0,user_838@example.com,+1-779-997
+CUST-6777,2023-01-16,,492.74,28.0,,330.0,0,TRUE,user_839@example.com,+1-571-672
+CUST-8364,2022-02-22,  basic  ,113.36,35.0,Armenia,36.0,9,No,,+1-946-9533
+CUST-9430,2022-01-05,  basic  ,59.92,58.0,UK,10.0,8,No,user_841@example.com,+1-778-5787
+CUST-8845,2023-02-23,  PRO  ,91.83,19.0,USA,340.0,2,Yes,user_842@example.com,+1-355-2860
+CUST-5209,2023-02-19,  Ent-1  ,80.3,72.0,Armenia,4.0,0,FALSE,user_843@example.com,+1-749-6070
+CUST-5040,2023-01-23,,93.8,52.0,United States,36.0,11,No,user_844@example.com,+1-248-9539
+CUST-2688,2022-04-28,  basic  ,69.51,72.0,US,262.0,2,TRUE,user_845@example.com,+1-367-8808
+CUST-1758,2022-12-23,  Ent-1  ,430.91,20.0,United States,98.0,6,Yes,user_846@example.com,+1-984-8516
+CUST-8152,2023-01-10,  Ent-1  ,,32.0,US,125.0,15,No,user_847@example.com,+1-893-1554
+CUST-3998,2022-03-27,  Ent-1  ,33.11,73.0,USA,288.0,14,Yes,user_848@example.com,+1-297-6111
+CUST-1018,2022-09-19,,445.49,66.0,ARM,328.0,6,Yes,user_849@example.com,+1-774-8098
+CUST-7940,2022-01-17,  Basic  ,207.5,45.0,UK,341.0,6,1,user_850@example.com,+1-291-2060
+CUST-4615,2022-03-06,,232.51,74.0,U.K.,0.0,2,TRUE,user_851@example.com,+1-351-3729
+CUST-9050,2022-11-06,  enterprise  ,301.07,73.0,U.K.,63.0,0,Yes,user_852@example.com,+1-616-9019
+CUST-5554,2022-03-22,  basic  ,249.02,33.0,Armenia,35.0,7,TRUE,user_853@example.com,+1-335-2528
+CUST-7154,2023-01-21,  enterprise  ,398.71,66.0,United States,103.0,7,TRUE,user_854@example.com,+1-662-3396
+CUST-4526,2022-09-15,  Basic  ,486.17,29.0,USA,124.0,4,0,user_855@example.com,+1-529-1948
+CUST-2348,2022-02-12,  Ent-1  ,338.72,75.0,US,329.0,10,Yes,user_856@example.com,+1-778-1713
+CUST-2751,2023-03-26,  enterprise  ,456.36,56.0,Armenia,107.0,17,1,user_857@example.com,+1-336-1338
+CUST-7906,2023-05-06,  enterprise  ,118.22,,,2.0,15,0,user_858@example.com,+1-164-6812
+CUST-9757,2023-03-25,  Basic  ,135.5,66.0,UK,,15,TRUE,user_859@example.com,+1-369-1486
+CUST-4328,2022-01-15,  Basic  ,287.21,22.0,U.K.,,11,TRUE,user_860@example.com,+1-962-6358
+CUST-3584,2022-06-27,  basic  ,339.9,,US,365.0,0,No,user_861@example.com,+1-923-3517
+CUST-4389,2022-05-07,  basic  ,408.78,61.0,UK,190.0,5,Yes,user_862@example.com,+1-750-1406
+CUST-8100,2022-07-06,,226.48,72.0,ARM,321.0,0,1,user_863@example.com,+1-159-8150
+CUST-2545,2022-07-05,  PRO  ,222.33,58.0,ARM,27.0,5,1,user_864@example.com,+1-462-6114
+CUST-5725,2023-04-14,  Ent-1  ,34.18,21.0,UK,200.0,13,FALSE,user_865@example.com,+1-431-7364
+CUST-2615,2022-11-08,  basic  ,197.29,61.0,United States,134.0,19,1,user_866@example.com,+1-952-9733
+CUST-3417,2022-12-03,  Basic  ,142.24,60.0,U.K.,322.0,13,FALSE,user_867@example.com,+1-358-5673
+CUST-6471,2022-09-21,  Basic  ,107.01,19.0,UK,7.0,3,Yes,user_868@example.com,+1-228-5948
+CUST-1368,2022-02-14,  Basic  ,385.79,68.0,ARM,318.0,15,0,user_869@example.com,+1-661-3526
+CUST-9626,2023-04-14,  enterprise  ,98.29,72.0,Armenia,232.0,18,No,user_870@example.com,+1-931-8915
+CUST-1400,2022-10-10,  Ent-1  ,123.2,23.0,Armenia,182.0,4,0,user_871@example.com,+1-729-9833
+CUST-5947,2022-12-28,  basic  ,28.2,22.0,USA,318.0,6,FALSE,user_872@example.com,+1-279-7529
+CUST-3782,2022-10-18,  enterprise  ,,56.0,Armenia,364.0,6,Yes,user_873@example.com,+1-966-1515
+CUST-2237,2023-04-16,  Ent-1  ,94.52,70.0,USA,136.0,1,TRUE,user_874@example.com,+1-989-4179
+CUST-5194,2022-08-27,  Basic  ,299.46,33.0,UK,,12,0,user_875@example.com,+1-226-8331
+CUST-2147,2022-04-06,  basic  ,171.99,32.0,U.K.,117.0,0,Yes,user_876@example.com,+1-366-4047
+CUST-3330,2022-11-04,  PRO  ,277.89,62.0,,258.0,2,0,,+1-710-2119
+CUST-4288,2023-04-30,  basic  ,136.98,49.0,US,24.0,8,0,,+1-302-8846
+CUST-4190,2022-06-22,  Ent-1  ,,18.0,United States,181.0,19,TRUE,user_879@example.com,+1-819-7826
+CUST-4922,2022-10-27,  basic  ,241.53,62.0,United States,161.0,6,0,user_880@example.com,+1-608-416
+CUST-4419,2022-05-25,  Ent-1  ,429.09,64.0,ARM,128.0,15,FALSE,user_881@example.com,+1-811-2204
+CUST-9434,2022-07-20,  PRO  ,,51.0,US,84.0,18,1,user_882@example.com,+1-773-6715
+CUST-2523,2022-12-11,  enterprise  ,483.18,40.0,,202.0,1,FALSE,user_883@example.com,+1-825-3916
+CUST-5749,2022-11-30,  Ent-1  ,,64.0,Armenia,1.0,20,1,,+1-912-5137
+CUST-1211,2022-12-18,  basic  ,185.6,36.0,US,48.0,0,0,user_885@example.com,+1-265-5842
+CUST-3684,2022-02-27,,295.61,29.0,US,289.0,0,0,user_886@example.com,+1-766-327
+CUST-5255,2022-04-20,,112.19,22.0,United States,173.0,8,TRUE,user_887@example.com,+1-149-3065
+CUST-9969,2022-06-16,  Basic  ,,24.0,US,186.0,17,TRUE,user_888@example.com,+1-656-7015
+CUST-3603,2022-12-09,  Basic  ,416.78,32.0,United States,33.0,15,TRUE,user_889@example.com,+1-649-2019
+CUST-8851,2022-03-26,  PRO  ,359.85,67.0,United States,307.0,0,TRUE,,+1-291-9028
+CUST-1146,2023-02-10,  Basic  ,12.11,20.0,UK,278.0,11,TRUE,,+1-715-8732
+CUST-7698,2022-05-12,  basic  ,19.17,69.0,ARM,319.0,1,Yes,user_892@example.com,+1-180-2374
+CUST-3445,2022-08-19,  Ent-1  ,97.87,71.0,U.K.,274.0,8,Yes,user_893@example.com,+1-324-7175
+CUST-3344,2022-01-03,,431.64,35.0,UK,147.0,18,TRUE,user_894@example.com,+1-418-9006
+CUST-3760,2022-02-26,  Ent-1  ,118.08,,United States,242.0,0,0,user_895@example.com,+1-580-4776
+CUST-9297,2022-06-14,  PRO  ,397.74,64.0,,259.0,4,No,user_896@example.com,+1-314-6199
+CUST-8872,2023-04-01,,131.04,23.0,USA,14.0,0,TRUE,user_897@example.com,+1-480-547
+CUST-7711,2022-01-18,  basic  ,446.97,,UK,149.0,18,TRUE,user_898@example.com,+1-601-6931
+CUST-3587,2022-02-10,  Basic  ,50.32,72.0,ARM,266.0,17,FALSE,user_899@example.com,+1-584-9588
+CUST-2355,2022-12-10,  enterprise  ,356.81,42.0,United States,218.0,9,1,user_900@example.com,+1-194-5170
+CUST-7567,2022-11-29,  enterprise  ,255.06,62.0,UK,70.0,13,FALSE,,+1-780-4105
+CUST-4905,2023-05-01,,354.7,59.0,U.K.,291.0,2,No,user_902@example.com,+1-257-2220
+CUST-6400,2022-03-14,  Ent-1  ,383.46,56.0,Armenia,345.0,20,No,user_903@example.com,+1-768-4527
+CUST-3482,2022-07-12,  PRO  ,320.65,25.0,Armenia,84.0,6,Yes,user_904@example.com,+1-864-6765
+CUST-5617,2022-09-19,,437.35,39.0,US,246.0,6,1,user_905@example.com,+1-426-6287
+CUST-9782,2023-03-16,  basic  ,175.27,38.0,USA,289.0,5,0,user_906@example.com,+1-280-2098
+CUST-1086,2022-11-12,  Basic  ,433.7,39.0,,112.0,9,Yes,user_907@example.com,+1-530-366
+CUST-2709,2022-07-08,,481.93,56.0,UK,299.0,6,TRUE,user_908@example.com,+1-995-9517
+CUST-4887,2023-02-13,  PRO  ,194.82,75.0,UK,32.0,1,Yes,user_909@example.com,+1-773-3423
+CUST-2930,2022-09-23,  Ent-1  ,484.28,53.0,U.K.,180.0,3,1,user_910@example.com,+1-993-3580
+CUST-9092,2022-08-01,  Ent-1  ,147.81,32.0,UK,26.0,7,No,user_911@example.com,+1-237-9565
+CUST-7762,2022-03-03,,105.7,44.0,US,36.0,10,0,user_912@example.com,+1-568-9038
+CUST-6700,2022-01-25,,448.15,31.0,United States,345.0,10,Yes,user_913@example.com,+1-847-5308
+CUST-6043,2023-03-11,  basic  ,204.46,52.0,Armenia,293.0,19,FALSE,,+1-548-8594
+CUST-7538,2022-08-30,  Basic  ,427.32,75.0,,294.0,20,FALSE,user_915@example.com,+1-642-7207
+CUST-9683,2022-09-08,  enterprise  ,43.34,26.0,U.K.,194.0,13,Yes,user_916@example.com,+1-562-1562
+CUST-3102,2022-07-24,  basic  ,469.4,56.0,Armenia,16.0,19,1,user_917@example.com,+1-633-8508
+CUST-2671,2022-01-24,  basic  ,,41.0,U.K.,105.0,17,FALSE,user_918@example.com,+1-266-195
+CUST-4541,2023-03-28,,68.87,38.0,Armenia,10.0,6,0,user_919@example.com,+1-415-9551
+CUST-8656,2023-03-20,  enterprise  ,176.14,55.0,ARM,158.0,16,FALSE,user_920@example.com,+1-105-2372
+CUST-7779,2022-01-27,,60.35,58.0,,87.0,3,Yes,user_921@example.com,+1-616-9653
+CUST-7434,2022-04-23,  basic  ,31.8,56.0,ARM,312.0,14,FALSE,user_922@example.com,+1-635-9795
+CUST-1967,2022-12-13,  enterprise  ,162.72,24.0,US,342.0,6,1,user_923@example.com,+1-649-9839
+CUST-8298,2022-04-10,,22.42,72.0,Armenia,248.0,8,1,user_924@example.com,+1-721-6778
+CUST-7994,2022-02-20,  Basic  ,,45.0,ARM,,20,1,user_925@example.com,+1-652-6324
+CUST-7095,2022-01-15,  enterprise  ,461.64,65.0,Armenia,314.0,1,No,user_926@example.com,+1-429-5599
+CUST-7073,2022-03-17,  enterprise  ,255.29,50.0,USA,30.0,17,No,user_927@example.com,+1-124-5538
+CUST-7211,2023-01-18,,,,ARM,89.0,1,TRUE,user_928@example.com,+1-766-6457
+CUST-9998,2022-08-07,  Basic  ,431.6,75.0,UK,19.0,16,TRUE,user_929@example.com,+1-157-8415
+CUST-5784,2022-08-31,  PRO  ,207.74,62.0,USA,183.0,8,1,user_930@example.com,+1-531-9037
+CUST-5421,2022-08-05,  Basic  ,384.21,56.0,U.K.,174.0,17,0,user_931@example.com,+1-146-7440
+CUST-8697,2022-04-18,  Basic  ,320.09,67.0,,349.0,9,Yes,user_932@example.com,+1-155-4615
+CUST-1218,2022-04-01,  PRO  ,125.21,52.0,United States,25.0,7,1,user_933@example.com,+1-719-2526
+CUST-3981,2022-08-17,  Basic  ,330.82,,US,124.0,6,0,user_934@example.com,+1-149-391
+CUST-6686,2022-04-16,  PRO  ,226.03,62.0,US,102.0,14,No,user_935@example.com,+1-923-5374
+CUST-6848,2022-11-17,  enterprise  ,123.94,53.0,Armenia,68.0,19,No,user_936@example.com,+1-707-6036
+CUST-3536,2023-03-18,  Basic  ,,,,26.0,11,TRUE,,+1-596-6871
+CUST-4393,2022-08-31,,264.73,22.0,UK,19.0,5,FALSE,user_938@example.com,+1-509-4125
+CUST-3852,2022-07-24,  enterprise  ,273.49,,United States,63.0,3,FALSE,user_939@example.com,+1-332-2932
+CUST-5836,2022-07-09,  Basic  ,165.15,38.0,USA,10.0,5,Yes,user_940@example.com,+1-227-1686
+CUST-3689,2023-01-16,  Ent-1  ,82.99,,,267.0,11,1,user_941@example.com,+1-533-7619
+CUST-2694,2022-06-08,  Basic  ,255.95,60.0,,52.0,4,Yes,user_942@example.com,+1-261-678
+CUST-4469,2022-04-12,  enterprise  ,454.87,41.0,Armenia,104.0,10,0,user_943@example.com,+1-855-1459
+CUST-5819,2022-08-01,  Basic  ,261.48,66.0,US,289.0,13,No,user_944@example.com,+1-627-9357
+CUST-7311,2022-04-20,  enterprise  ,,32.0,US,303.0,14,Yes,user_945@example.com,+1-315-3870
+CUST-7960,2022-04-18,,465.83,,Armenia,252.0,16,1,user_946@example.com,+1-411-6196
+CUST-9836,2022-11-10,  basic  ,476.84,65.0,United States,355.0,9,FALSE,user_947@example.com,+1-721-3092
+CUST-2828,2022-02-05,,384.27,38.0,US,324.0,13,0,user_948@example.com,+1-679-4839
+CUST-1804,2022-11-30,  PRO  ,52.98,75.0,,15.0,20,Yes,user_949@example.com,+1-767-1773
+CUST-1538,2022-10-29,  basic  ,22.44,56.0,U.K.,88.0,13,No,user_950@example.com,+1-880-9985
+CUST-9505,2023-04-01,,283.85,69.0,ARM,63.0,3,0,user_951@example.com,+1-109-4721
+CUST-6521,2022-10-03,  enterprise  ,381.5,56.0,Armenia,160.0,2,TRUE,user_952@example.com,+1-856-8725
+CUST-6694,2022-02-15,  Basic  ,76.01,50.0,UK,,9,No,user_953@example.com,+1-739-6783
+CUST-6862,2022-10-20,  basic  ,201.47,59.0,U.K.,328.0,18,1,user_954@example.com,+1-832-946
+CUST-9373,2023-05-15,  basic  ,31.62,19.0,Armenia,86.0,11,1,user_955@example.com,+1-523-3551
+CUST-9899,2022-04-27,  basic  ,398.4,29.0,Armenia,337.0,6,FALSE,user_956@example.com,+1-961-5583
+CUST-1606,2022-02-27,,148.69,39.0,United States,1.0,19,FALSE,user_957@example.com,+1-432-4167
+CUST-6506,2023-03-14,  PRO  ,210.63,47.0,UK,228.0,1,FALSE,user_958@example.com,+1-337-8051
+CUST-6676,2022-01-17,  enterprise  ,,42.0,ARM,30.0,3,TRUE,user_959@example.com,+1-316-5161
+CUST-9954,2022-06-10,  Ent-1  ,294.93,50.0,USA,191.0,2,FALSE,user_960@example.com,+1-213-4881
+CUST-3094,2022-09-30,  Ent-1  ,416.77,32.0,United States,308.0,20,0,user_961@example.com,+1-284-3405
+CUST-8746,2022-04-05,  Basic  ,142.83,67.0,UK,264.0,12,0,user_962@example.com,+1-321-3030
+CUST-3218,2022-08-23,  PRO  ,341.54,65.0,UK,281.0,0,FALSE,user_963@example.com,+1-751-8914
+CUST-2696,2022-05-31,  Ent-1  ,355.32,61.0,Armenia,93.0,20,FALSE,user_964@example.com,+1-201-2004
+CUST-9755,2022-12-19,  Basic  ,294.91,69.0,ARM,361.0,17,TRUE,user_965@example.com,+1-333-467
+CUST-8542,2022-04-17,,92.97,58.0,,34.0,8,FALSE,user_966@example.com,+1-895-8160
+CUST-8882,2022-07-20,  Basic  ,404.0,29.0,Armenia,29.0,1,1,user_967@example.com,+1-165-8823
+CUST-9071,2023-02-27,  enterprise  ,57.37,37.0,USA,342.0,17,TRUE,user_968@example.com,+1-607-2799
+CUST-2101,2022-12-25,  Basic  ,,63.0,U.K.,25.0,2,TRUE,user_969@example.com,+1-905-7170
+CUST-6901,2023-03-17,  PRO  ,470.57,75.0,UK,117.0,11,No,user_970@example.com,+1-407-889
+CUST-5909,2022-10-08,,245.38,25.0,,151.0,13,FALSE,user_971@example.com,+1-698-6713
+CUST-7619,2022-08-22,,328.38,35.0,,330.0,10,0,,+1-226-8652
+CUST-7422,2023-04-05,,17.7,57.0,UK,197.0,0,0,user_973@example.com,+1-401-5681
+CUST-7566,2022-03-12,  Basic  ,132.08,30.0,,245.0,20,No,user_974@example.com,+1-316-3633
+CUST-9642,2023-01-31,  Ent-1  ,285.21,41.0,UK,76.0,15,FALSE,user_975@example.com,+1-183-5977
+CUST-9057,2022-09-19,  PRO  ,388.83,49.0,,253.0,6,TRUE,user_976@example.com,+1-279-3783
+CUST-5935,2022-05-17,  basic  ,293.44,47.0,US,322.0,4,No,user_977@example.com,+1-594-1268
+CUST-8965,2023-01-26,  Ent-1  ,314.34,55.0,US,198.0,1,0,user_978@example.com,+1-265-3020
+CUST-7723,2022-08-20,  basic  ,295.93,32.0,,156.0,3,No,user_979@example.com,+1-880-5218
+CUST-2445,2023-05-01,  Ent-1  ,195.64,68.0,ARM,232.0,5,FALSE,user_980@example.com,+1-525-9244
+CUST-7297,2022-04-01,  Ent-1  ,433.06,63.0,ARM,,1,Yes,user_981@example.com,+1-484-6671
+CUST-9742,2022-03-27,  Ent-1  ,,38.0,US,354.0,17,Yes,user_982@example.com,+1-106-9596
+CUST-1431,2022-04-28,  basic  ,245.54,52.0,USA,24.0,10,FALSE,user_983@example.com,+1-149-3130
+CUST-2947,2022-09-06,  Ent-1  ,87.94,,USA,303.0,3,No,user_984@example.com,+1-494-8267
+CUST-2416,2022-08-10,,363.2,71.0,Armenia,286.0,14,Yes,user_985@example.com,+1-705-5050
+CUST-7818,2022-07-14,  Basic  ,,19.0,,9.0,8,1,user_986@example.com,+1-764-5071
+CUST-2801,2022-09-19,  PRO  ,108.24,74.0,,,8,No,user_987@example.com,+1-596-4734
+CUST-4589,2023-01-21,  basic  ,290.25,,Armenia,115.0,12,No,user_988@example.com,+1-252-632
+CUST-8838,2023-03-28,  basic  ,161.23,34.0,USA,233.0,9,0,user_989@example.com,+1-965-5830
+CUST-7895,2023-01-26,  Basic  ,351.12,74.0,,314.0,12,TRUE,user_990@example.com,+1-857-6286
+CUST-5331,2023-04-11,  basic  ,16.75,28.0,UK,279.0,2,FALSE,,+1-806-2378
+CUST-5702,2023-01-31,  PRO  ,115.43,49.0,U.K.,68.0,2,Yes,user_992@example.com,+1-355-4628
+CUST-7043,2022-03-22,  Basic  ,339.8,27.0,USA,193.0,11,Yes,user_993@example.com,+1-200-2006
+CUST-8407,2022-03-21,  Basic  ,422.34,36.0,UK,106.0,14,TRUE,user_994@example.com,+1-520-1596
+CUST-5920,2022-03-30,  Ent-1  ,17.2,46.0,US,3.0,19,0,user_995@example.com,+1-906-3230
+CUST-2648,2022-08-09,,216.37,60.0,ARM,,9,FALSE,user_996@example.com,+1-865-2042
+CUST-1918,2023-03-06,  basic  ,384.89,42.0,U.K.,134.0,16,TRUE,user_997@example.com,+1-597-236
+CUST-2402,2023-03-03,  Basic  ,338.32,42.0,,272.0,1,Yes,user_998@example.com,+1-321-114
+CUST-6643,2022-11-26,,377.9,48.0,UK,119.0,13,1,user_999@example.com,+1-146-691
+CUST-3457,2023-03-09,  basic  ,124.83,75.0,,31.0,18,FALSE,user_0@example.com,+1-803-1300
+CUST-8231,2022-10-04,,392.49,39.0,ARM,131.0,20,No,user_1@example.com,+1-909-1284
+CUST-3280,2022-03-20,  enterprise  ,434.66,50.0,,283.0,5,Yes,user_2@example.com,+1-296-5676
+CUST-3913,2022-10-06,  Ent-1  ,,56.0,UK,114.0,0,Yes,user_3@example.com,+1-396-8195
+CUST-1779,2023-04-13,  basic  ,336.65,34.0,USA,227.0,1,No,user_4@example.com,+1-165-1894
+CUST-9092,2023-01-05,  PRO  ,405.18,50.0,ARM,182.0,1,FALSE,,+1-864-5195
+CUST-4227,2022-12-10,  Basic  ,242.76,22.0,,35.0,12,1,user_6@example.com,+1-328-1386
+CUST-9054,2022-04-17,  enterprise  ,282.0,42.0,Armenia,293.0,5,1,user_7@example.com,+1-265-4716
+CUST-6786,2022-05-18,,22.03,46.0,US,185.0,5,1,user_8@example.com,+1-387-7428
+CUST-8686,2022-10-30,  Ent-1  ,304.41,59.0,U.K.,38.0,1,FALSE,user_9@example.com,+1-386-3769
+CUST-2352,2022-09-27,,426.92,,U.K.,17.0,3,0,user_10@example.com,+1-635-6248
+CUST-8235,2022-06-06,  Ent-1  ,274.32,21.0,United States,47.0,16,FALSE,user_11@example.com,+1-593-2593
+CUST-4220,2022-11-23,,498.23,68.0,U.K.,,4,No,user_12@example.com,+1-538-562
+CUST-5274,2022-04-24,  enterprise  ,80.35,53.0,USA,,15,1,user_13@example.com,+1-157-7840
+CUST-2884,2022-10-30,,199.79,28.0,UK,199.0,1,Yes,user_14@example.com,+1-695-8822
+CUST-5076,2022-10-31,  Ent-1  ,103.91,67.0,United States,,3,0,user_15@example.com,+1-943-6086
+CUST-5132,2023-04-26,  Ent-1  ,354.6,45.0,U.K.,108.0,3,1,user_16@example.com,+1-775-1475
+CUST-8543,2023-05-09,  enterprise  ,261.14,75.0,U.K.,,6,No,user_17@example.com,+1-110-5915
+CUST-7578,2022-08-04,  PRO  ,400.11,72.0,,303.0,13,No,,+1-184-8701
+CUST-9334,2022-09-11,  Basic  ,,39.0,U.K.,39.0,19,0,,+1-931-3148
+CUST-8261,2022-01-12,  Basic  ,123.09,56.0,,177.0,11,1,user_20@example.com,+1-392-9193
+CUST-9067,2022-04-09,  Ent-1  ,299.3,72.0,ARM,7.0,6,1,user_21@example.com,+1-890-988
+CUST-7009,2023-01-29,  Ent-1  ,430.24,19.0,Armenia,272.0,6,1,user_22@example.com,+1-662-4583
+CUST-2040,2023-01-20,,305.6,59.0,Armenia,148.0,3,Yes,user_23@example.com,+1-383-9263
+CUST-8192,2022-04-15,,,35.0,US,4.0,20,FALSE,user_24@example.com,+1-603-4671
+CUST-9663,2022-03-09,  basic  ,331.31,36.0,Armenia,219.0,3,1,user_25@example.com,+1-758-8264
+CUST-5522,2022-03-21,  basic  ,181.17,50.0,,86.0,14,1,user_26@example.com,+1-190-4172
+CUST-4283,2022-11-09,  basic  ,406.95,,ARM,43.0,8,0,user_27@example.com,+1-114-2029
+CUST-5308,2022-12-12,  Basic  ,205.36,55.0,Armenia,73.0,12,1,,+1-723-8954
+CUST-8208,2022-01-16,,100.97,31.0,U.K.,,12,0,user_29@example.com,+1-431-4904
+CUST-3959,2022-08-10,  Basic  ,52.32,48.0,United States,57.0,17,FALSE,user_30@example.com,+1-590-6896
+CUST-9742,2022-07-16,,414.39,33.0,United States,54.0,3,TRUE,user_31@example.com,+1-509-9457
+CUST-5038,2022-01-18,  Basic  ,260.69,37.0,Armenia,329.0,16,No,user_32@example.com,+1-655-9424
+CUST-4646,2022-03-24,  basic  ,355.96,29.0,United States,256.0,14,No,user_33@example.com,+1-900-6181
+CUST-1965,2022-05-14,  basic  ,296.65,,,206.0,5,TRUE,user_34@example.com,+1-116-8803
+CUST-9295,2022-08-09,  Basic  ,259.81,30.0,US,334.0,8,No,user_35@example.com,+1-732-4866
+CUST-6531,2022-12-19,  Basic  ,463.01,25.0,UK,272.0,1,FALSE,user_36@example.com,+1-450-6214
+CUST-3835,2022-08-25,  Basic  ,288.28,52.0,US,,19,FALSE,user_37@example.com,+1-632-5290
+CUST-8051,2022-06-28,  PRO  ,170.97,,USA,331.0,17,1,user_38@example.com,+1-205-3659
+CUST-1429,2023-02-19,  Ent-1  ,419.87,61.0,UK,135.0,0,TRUE,user_39@example.com,+1-463-7603
+CUST-7244,2022-09-16,  Ent-1  ,95.16,24.0,UK,95.0,15,Yes,user_40@example.com,+1-531-749
+CUST-8599,2022-04-14,  PRO  ,250.15,18.0,U.K.,167.0,20,1,user_41@example.com,+1-110-3035
+CUST-1437,2023-04-15,  Ent-1  ,418.44,52.0,ARM,126.0,11,No,,+1-137-1218
+CUST-7888,2023-03-17,  enterprise  ,396.7,69.0,USA,,7,Yes,user_43@example.com,+1-734-3082
+CUST-6675,2023-02-22,,163.23,46.0,,,2,No,user_44@example.com,+1-820-9269
+CUST-6620,2022-06-08,  Ent-1  ,65.14,23.0,US,332.0,1,1,user_45@example.com,+1-578-3029
+CUST-1612,2023-05-11,  Ent-1  ,373.76,66.0,,261.0,6,Yes,user_46@example.com,+1-366-4666
+CUST-6586,2022-10-09,  Ent-1  ,145.7,51.0,,136.0,16,TRUE,user_47@example.com,+1-764-858
+CUST-1334,2022-04-09,  Ent-1  ,,75.0,U.K.,281.0,20,1,user_48@example.com,+1-669-5414
+CUST-9399,2023-04-02,  PRO  ,246.89,57.0,Armenia,292.0,5,TRUE,user_49@example.com,+1-869-4684
