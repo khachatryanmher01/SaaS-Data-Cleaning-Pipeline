@@ -12,13 +12,14 @@ This project simulates real-world data preprocessing by applying business rules,
 ✅ Cleans and formats dates & boolean fields
 ✅ Outputs clean datasets ready for analytics or SQL
 📂 Project Structure
+<pre>
 SaaS_Data_Project/
-├── data/
+│
 │ ├── messy_customer_data.csv
 │ └── cleaned_customer_data.csv
-├── src/
 │ └── data_cleaner.py
 └── README.md
+</pre>
 ⚙️ How It Works
 
 The pipeline scans the project folder and automatically processes all .csv files that are not already cleaned.
