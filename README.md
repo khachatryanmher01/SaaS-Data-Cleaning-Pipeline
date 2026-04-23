@@ -13,10 +13,11 @@ This project simulates real-world data preprocessing by applying business rules,
 ✅ Outputs clean datasets ready for analytics or SQL
 📂 Project Structure
 SaaS_Data_Project/
-│
-├── messy_customer_data.csv        # Raw dataset (input)
-├── cleaned_customer_data.csv      # Clean dataset (output)
-├── data_cleaner.py                # Main pipeline script
+├── data/
+│ ├── messy_customer_data.csv
+│ └── cleaned_customer_data.csv
+├── src/
+│ └── data_cleaner.py
 └── README.md
 ⚙️ How It Works
 
