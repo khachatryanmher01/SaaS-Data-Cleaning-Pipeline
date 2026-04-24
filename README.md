@@ -74,3 +74,5 @@ messy_customer_data.csv
 Output:
 
 cleaned_messy_customer_data.csv
+
+⭐ If you found this project useful, feel free to star the repository!
